@@ -9,7 +9,7 @@ GIT
 
 GIT
   remote: https://github.com/planningalerts-scrapers/epathway_scraper.git
-  revision: 3f5683f61a160fb1b54320edca20e4b16fcd312a
+  revision: 4f91280cc758e3ca86f2d7af2f10be802375e43a
   specs:
     epathway_scraper (0.1.0)
       mechanize
@@ -43,9 +43,9 @@ GEM
     mime-types-data (3.2019.0331)
     mini_portile2 (2.4.0)
     net-http-digest_auth (1.4.1)
-    net-http-persistent (3.0.1)
+    net-http-persistent (3.1.0)
       connection_pool (~> 2.2)
-    nokogiri (1.10.3)
+    nokogiri (1.10.4)
       mini_portile2 (~> 2.4.0)
     ntlm-http (0.1.1)
     public_suffix (3.1.1)
@@ -58,7 +58,7 @@ GEM
       unf_ext
     unf_ext (0.0.7.6)
     vcr (5.0.0)
-    webmock (3.6.0)
+    webmock (3.6.2)
       addressable (>= 2.3.6)
       crack (>= 0.3.2)
       hashdiff (>= 0.4.0, < 2.0.0)
