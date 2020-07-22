@@ -3,19 +3,6 @@
 require "timecop"
 
 RSpec.describe EpathwayScraper do
-  it "has a version number" do
-    expect(EpathwayScraper::VERSION).not_to be nil
-  end
-
-  describe ".save" do
-    let(:record) { { "foo" => 1, "council_reference" => "ABC", "address" => "here" } }
-
-    it "should save a record to the local sqlite database" do
-      EpathwayScraper.save(record)
-      expect(ScraperWiki.select("* from data")).to eq [record]
-    end
-  end
-
   describe "Scraper" do
     def test_scraper(authority)
       results = VCR.use_cassette(authority) do
