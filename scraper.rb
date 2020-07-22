@@ -1,3 +1,5 @@
+$LOAD_PATH << "./lib"
+
 require 'epathway_scraper'
 
 def scrape(authorities)

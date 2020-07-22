@@ -1,0 +1,516 @@
+---
+- council_reference: DA-2010/1000/C
+  address: 72-76 Crown Street, WOLLONGONG NSW 2500
+  description: Alterations and additions to existing motel/ restaurant - Modification
+    C - modify conditions of consent relating to hours of operation
+  info_url: http://epathway.wollongong.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-14'
+  on_notice_from: '2019-05-20'
+  on_notice_to: '2019-06-03'
+- council_reference: DA-2016/1483/A
+  address: 45 Sturdee Street, TOWRADGI NSW 2518
+  description: Residential - store room addition to existing garage - Modification
+    A - increase floor area of additions
+  info_url: http://epathway.wollongong.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-21'
+  on_notice_from: '2019-05-27'
+  on_notice_to: '2019-06-11'
+- council_reference: DA-2017/1670/A
+  address: 33 Rawlinson Avenue, WOLLONGONG NSW 2500
+  description: |-
+    Residential - demolition of three (3) dwelling houses and construction of a multi dwelling housing development
+    Modification A - modifications to windows, inclusion of additional windows, minor internal unit layout changes, extension to some decks, changes to levels Unit 3, new metal roof over rear car parking area, roof over some private open space areas, new balcony to front of Unit 2
+  info_url: http://epathway.wollongong.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-04-18'
+  on_notice_from: '2019-05-31'
+  on_notice_to: '2019-06-19'
+- council_reference: DA-2017/1719
+  address: 1A Norman Street, MANGERTON NSW 2500
+  description: Residential - dwelling house and two swimming pools and spa
+  info_url: http://epathway.wollongong.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2017-12-18'
+  on_notice_from: '2018-02-05'
+  on_notice_to: '2018-02-19'
+- council_reference: DA-2018/1059/A
+  address: 21 Eastern Avenue, MANGERTON NSW 2500
+  description: Residential - dwelling house and removal of two (2) trees - Modification
+    A - increase front setback, increase side setbacks, increase size of rear deck,
+    new front awning and window changes
+  info_url: http://epathway.wollongong.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-20'
+  on_notice_from: '2019-05-29'
+  on_notice_to: '2019-06-13'
+- council_reference: DA-2018/1543
+  address: 95 O'Briens Road, FIGTREE NSW 2525
+  description: Place of public worship - demolition of existing dwelling and outbuildings
+    and construction of place of public worship/ meeting hall, associated car parking
+    and landscape works - Re-notified due to amended plans
+  info_url: http://epathway.wollongong.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2018-12-05'
+  on_notice_from: '2019-01-04'
+  on_notice_to: '2019-02-08'
+- council_reference: DA-2018/1610
+  address: 9 Bundarra Place, DAPTO NSW 2530
+  description: Residential - Demolition of dwelling houses and tree removal, construction
+    of multi dwelling housing - six (6) x townhouses and associated carparking, drainage
+    and landscaping - Re-notified due to amended plans
+  info_url: http://epathway.wollongong.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2018-12-18'
+  on_notice_from: '2019-01-11'
+  on_notice_to: '2019-02-18'
+- council_reference: DA-2018/42/A
+  address: 13 Ambleside Avenue, MOUNT KEIRA NSW 2500
+  description: Residential - demolition of existing dwelling house and construction
+    of dwelling house & retaining walls - Modification A - extension to first floor
+    to additional room, amendment to roof pitch and eaves
+  info_url: http://epathway.wollongong.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-16'
+  on_notice_from: '2019-05-21'
+  on_notice_to: '2019-06-04'
+- council_reference: DA-2018/666/B
+  address: 23 Somerville Street, BULLI NSW 2516
+  description: Residential - Demolition of existing dwelling house and construction
+    of dwelling house and swimming pool - modification B - change of building height
+    and minor internal changes
+  info_url: http://epathway.wollongong.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-15'
+  on_notice_from: '2019-05-21'
+  on_notice_to: '2019-06-04'
+- council_reference: DA-2019/396
+  address: 8 Nimbin Street, RUSSELL VALE NSW 2517
+  description: Residential -  Phase 1 -  Subdivision - Torrens title - two (2) lots,
+    Phase 2 - new residential dwelling
+  info_url: http://epathway.wollongong.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-04-26'
+  on_notice_from: '2019-05-10'
+  on_notice_to: '2019-06-12'
+- council_reference: DA-2019/416
+  address: 105 Walang Avenue, FIGTREE NSW 2525
+  description: Residential - Subdivision - Torrens title - two (2) lots including
+    new  driveway access, retaining walls, tree removals and stormwater infrastructure
+  info_url: http://epathway.wollongong.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-03'
+  on_notice_from: '2019-05-16'
+  on_notice_to: '2019-06-05'
+- council_reference: DA-2019/419
+  address: 5 Waverley Drive, UNANDERRA NSW 2526
+  description: Industrial - warehouse addition
+  info_url: http://epathway.wollongong.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-03'
+  on_notice_from: '2019-05-16'
+  on_notice_to: '2019-06-05'
+- council_reference: DA-2019/426
+  address: Springhill Road, SPRING HILL NSW 2500
+  description: Industrial - upgrade of passivation equipment on No 2 and No 3 metallic
+    coating lines including construction of an electrical switchroom building and
+    chemical storage area
+  info_url: http://epathway.wollongong.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-06'
+  on_notice_from: '2019-05-24'
+  on_notice_to: '2019-06-28'
+- council_reference: DA-2019/436
+  address: 10 Market Place, WOLLONGONG NSW 2500
+  description: Residential - carport
+  info_url: http://epathway.wollongong.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-08'
+  on_notice_from: '2019-05-09'
+  on_notice_to: '2019-05-23'
+- council_reference: DA-2019/442
+  address: 39 Wongawilli Road, WONGAWILLI NSW 2530
+  description: Commercial - alterations and additions to existing building for use
+    as a 59 place child care centre with associated parking, landscaping and drainage
+    infrastructure works
+  info_url: http://epathway.wollongong.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-09'
+  on_notice_from: '2019-05-16'
+  on_notice_to: '2019-06-05'
+- council_reference: DA-2019/443
+  address: 13 Sleigh Street, FIGTREE NSW 2525
+  description: Residential - alterations and additions
+  info_url: http://epathway.wollongong.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-09'
+  on_notice_from: '2019-05-20'
+  on_notice_to: '2019-06-03'
+- council_reference: DA-2019/449
+  address: 3 David Crescent, FAIRY MEADOW NSW 2519
+  description: Increase child number at Child Care Centre from 22-25 students and
+    minor addition to child care centre
+  info_url: http://epathway.wollongong.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-10'
+  on_notice_from: '2019-05-24'
+  on_notice_to: '2019-06-12'
+- council_reference: DA-2019/451
+  address: 22 Railway Crescent, NORTH WOLLONGONG NSW 2500
+  description: Residential - Secondary Dwelling
+  info_url: http://epathway.wollongong.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-13'
+  on_notice_from: '2019-05-20'
+  on_notice_to: '2019-06-03'
+- council_reference: DA-2019/453
+  address: 2-4 Highway Avenue, WEST WOLLONGONG NSW 2500
+  description: Residential - demolition of existing dwellings and construction of
+    multi unit housing and subdivision - strata title - twenty one (21) lots
+  info_url: http://epathway.wollongong.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-13'
+  on_notice_from: '2019-05-24'
+  on_notice_to: '2019-06-12'
+- council_reference: DA-2019/460
+  address: 12/9-11 Bode Avenue, NORTH WOLLONGONG NSW 2500
+  description: Residential - roof terrace pergola
+  info_url: http://epathway.wollongong.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-14'
+  on_notice_from: '2019-05-20'
+  on_notice_to: '2019-06-03'
+- council_reference: DA-2019/462
+  address: 42 Homestead Drive, HORSLEY NSW 2530
+  description: Residential - alterations and additions
+  info_url: http://epathway.wollongong.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-14'
+  on_notice_from: '2019-05-20'
+  on_notice_to: '2019-06-03'
+- council_reference: DA-2019/463
+  address: 33 Elouera Crescent, KANAHOOKA NSW 2530
+  description: Residential - secondary dwelling
+  info_url: http://epathway.wollongong.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-15'
+  on_notice_from: '2019-05-20'
+  on_notice_to: '2019-06-03'
+- council_reference: DA-2019/465
+  address: 102-106 Fowlers Road, DAPTO NSW 2530
+  description: Commercial Premises - alterations and additions to existing bowling
+    club including reduction of size to bowling green 3 and some external works to
+    pathway and stairs and alterations and additions to ground floor to create a new
+    restaurant and enclose an existing terrace
+  info_url: http://epathway.wollongong.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-15'
+  on_notice_from: '2019-05-24'
+  on_notice_to: '2019-06-28'
+- council_reference: DA-2019/466
+  address: 33 Cochrane Street, WEST WOLLONGONG NSW 2500
+  description: Residential - demolition of outbuildings and tree removal, alterations
+    and additions to existing dwelling, construction of new detached dwelling to create
+    dual occupancy and Subdivision - Torrens title - two (2) lots.
+  info_url: http://epathway.wollongong.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-15'
+  on_notice_from: '2019-05-20'
+  on_notice_to: '2019-06-03'
+- council_reference: DA-2019/467
+  address: 2 Barellan Avenue, DAPTO NSW 2530
+  description: Residential - secondary dwelling
+  info_url: http://epathway.wollongong.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-15'
+  on_notice_from: '2019-05-21'
+  on_notice_to: '2019-06-04'
+- council_reference: DA-2019/469
+  address: 55 Grey Street, KEIRAVILLE NSW 2500
+  description: Residential - demolition of existing single storey dwelling, construction
+    of attached two storey dual occupancy and Subdivision - Torrens title - two (2)
+    lots
+  info_url: http://epathway.wollongong.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-15'
+  on_notice_from: '2019-05-21'
+  on_notice_to: '2019-06-04'
+- council_reference: DA-2019/470
+  address: 18 Young Street, COLEDALE NSW 2515
+  description: Residential - demolition and replacement of retaining wall
+  info_url: http://epathway.wollongong.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-15'
+  on_notice_from: '2019-05-21'
+  on_notice_to: '2019-06-04'
+- council_reference: DA-2019/471
+  address: 27 The Waves, THIRROUL NSW 2515
+  description: Residential - demolition of existing dwelling house and construction
+    of new dwelling house
+  info_url: http://epathway.wollongong.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-16'
+  on_notice_from: '2019-05-20'
+  on_notice_to: '2019-06-03'
+- council_reference: DA-2019/472
+  address: 20 Blackman Parade, UNANDERRA NSW 2526
+  description: Residential -  demolition of existing garage and construction of a
+    new secondary dwelling
+  info_url: http://epathway.wollongong.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-16'
+  on_notice_from: '2019-05-20'
+  on_notice_to: '2019-06-03'
+- council_reference: DA-2019/473
+  address: 142 Horsley Drive, HORSLEY NSW 2530
+  description: Residential -  construction of dwelling to create dual occupancy
+  info_url: http://epathway.wollongong.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-16'
+  on_notice_from: '2019-05-21'
+  on_notice_to: '2019-06-04'
+- council_reference: DA-2019/474
+  address: 2 Indigo Way, FIGTREE NSW 2525
+  description: Residential - dwelling house and swimming pool
+  info_url: http://epathway.wollongong.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-16'
+  on_notice_from: '2019-05-21'
+  on_notice_to: '2019-06-04'
+- council_reference: DA-2019/475
+  address: 7 Gadsden Way, FIGTREE NSW 2525
+  description: Residential - dwelling house
+  info_url: http://epathway.wollongong.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-16'
+  on_notice_from: '2019-05-21'
+  on_notice_to: '2019-06-04'
+- council_reference: DA-2019/476
+  address: 1/345 Lawrence Hargrave Drive, THIRROUL NSW 2515
+  description: Commercial - minor demolition works, internal alterations to combine
+    existing shops 4c and 12 and change of use of premises to a medical centre
+  info_url: http://epathway.wollongong.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-16'
+  on_notice_from: '2019-05-31'
+  on_notice_to: '2019-06-19'
+- council_reference: DA-2019/479
+  address: 12 Immarna Avenue, WEST WOLLONGONG NSW 2500
+  description: Residential - demolition of existing  garage and construction of garage
+    and retaining walls
+  info_url: http://epathway.wollongong.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-17'
+  on_notice_from: '2019-05-21'
+  on_notice_to: '2019-06-04'
+- council_reference: DA-2019/480
+  address: 7 Beatus Street, UNANDERRA NSW 2526
+  description: Residential - demolition of outbuildings, tree removal, construction
+    of an additional detached dwelling to form a dual occupancy and Subdivision -
+    Torrens title - two (2) lots
+  info_url: http://epathway.wollongong.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-17'
+  on_notice_from: '2019-05-21'
+  on_notice_to: '2019-06-04'
+- council_reference: DA-2019/481
+  address: 220 O'Briens Road, FIGTREE NSW 2525
+  description: Subdivision - boundary adjustment including driveway/access provision
+    works and tree removals
+  info_url: http://epathway.wollongong.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-17'
+  on_notice_from: '2019-05-31'
+  on_notice_to: '2019-06-19'
+- council_reference: DA-2019/482
+  address: 2/1 Midgley Street, CORRIMAL NSW 2518
+  description: Residential - alterations and additions to unit 2
+  info_url: http://epathway.wollongong.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-17'
+  on_notice_from: '2019-05-22'
+  on_notice_to: '2019-06-05'
+- council_reference: DA-2019/483
+  address: 52 Valley Drive, FIGTREE NSW 2525
+  description: Residential - replacement of retaining walls and new walkway
+  info_url: http://epathway.wollongong.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-17'
+  on_notice_from: '2019-05-21'
+  on_notice_to: '2019-06-04'
+- council_reference: DA-2019/485
+  address: 14 Frew Avenue, HELENSBURGH NSW 2508
+  description: Residential - secondary dwelling, tree removals and boundary fence
+  info_url: http://epathway.wollongong.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-17'
+  on_notice_from: '2019-05-22'
+  on_notice_to: '2019-06-05'
+- council_reference: DA-2019/486
+  address: 10 Napier Street, BALGOWNIE NSW 2519
+  description: Residential - Construction of carport and retaining wall and removal
+    of trees
+  info_url: http://epathway.wollongong.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-18'
+  on_notice_from: '2019-05-22'
+  on_notice_to: '2019-06-05'
+- council_reference: DA-2019/487
+  address: 3 Waverley Drive, UNANDERRA NSW 2526
+  description: Industrial - alterations and additions, use of premises as a joinery
+    with showroom and one (1) advertising flush wall sign
+  info_url: http://epathway.wollongong.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-20'
+  on_notice_from: '2019-05-27'
+  on_notice_to: '2019-06-11'
+- council_reference: DA-2019/489
+  address: 2 Western Avenue, MANGERTON NSW 2500
+  description: Residential - Demolition of existing shed, garage and carport and construction
+    of pool cabana, swimming pool, carport and retaining wall
+  info_url: http://epathway.wollongong.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-20'
+  on_notice_from: '2019-05-28'
+  on_notice_to: '2019-06-12'
+- council_reference: DA-2019/490
+  address: 30 Waverley Drive, UNANDERRA NSW 2526
+  description: Industrial - shed
+  info_url: http://epathway.wollongong.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-20'
+  on_notice_from: '2019-05-31'
+  on_notice_to: '2019-07-08'
+- council_reference: DA-2019/492
+  address: 37 Robson Street, CORRIMAL NSW 2518
+  description: Residential - demolition of garage, tree removals, construction of
+    dwelling to create a dual occupancy and Subdivision - Torrens title - two (2)
+    lots
+  info_url: http://epathway.wollongong.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-21'
+  on_notice_from: '2019-05-27'
+  on_notice_to: '2019-06-11'
+- council_reference: DA-2019/494
+  address: 39 Robertson Street, CONISTON NSW 2500
+  description: Residential - Garage and retaining walls
+  info_url: http://epathway.wollongong.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-21'
+  on_notice_from: '2019-05-28'
+  on_notice_to: '2019-06-12'
+- council_reference: DA-2019/497
+  address: 16 Hay Street, HELENSBURGH NSW 2508
+  description: Residential - demolition of existing garage and tree removals, construction
+    of new double storey dwelling to create dual occupancy and Subdivision - Torrens
+    title - two (2) lots
+  info_url: http://epathway.wollongong.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-22'
+  on_notice_from: '2019-05-28'
+  on_notice_to: '2019-06-12'
+- council_reference: DA-2019/500
+  address: 1/52 Campbell Street, WOONONA NSW 2517
+  description: Residential - swimming pool
+  info_url: http://epathway.wollongong.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-22'
+  on_notice_from: '2019-05-30'
+  on_notice_to: '2019-06-13'
+- council_reference: DA-2019/502
+  address: 225 Farmborough Road, FARMBOROUGH HEIGHTS NSW 2526
+  description: Residential - rear deck and detached garage with workshop
+  info_url: http://epathway.wollongong.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-22'
+  on_notice_from: '2019-05-29'
+  on_notice_to: '2019-06-13'
+- council_reference: DA-2019/504
+  address: 11 Point Street, BULLI NSW 2516
+  description: Residential - deck
+  info_url: http://epathway.wollongong.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-22'
+  on_notice_from: '2019-05-29'
+  on_notice_to: '2019-06-12'
+- council_reference: DA-2019/510
+  address: 21 Compton Street, DAPTO NSW 2530
+  description: Residential - removal of fence and retaining wall, construct a dwelling
+    house to create a dual occupancy and Subdivision - Strata title - two (2) lots
+  info_url: http://epathway.wollongong.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-23'
+  on_notice_from: '2019-05-29'
+  on_notice_to: '2019-06-12'
+- council_reference: DA-2019/513
+  address: 2 Resolution Drive, UNANDERRA NSW 2526
+  description: Industrial - construction of new industrial shed, use of Unit 4 as
+    a timber fabrication workshop and installation of shipping container for storage
+  info_url: http://epathway.wollongong.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-24'
+  on_notice_from: '2019-05-30'
+  on_notice_to: '2019-06-13'
+- council_reference: DA-2019/515
+  address: 14 Bangaroo Avenue, DAPTO NSW 2530
+  description: Residential - demolition of existing shed and construction of detached
+    garage
+  info_url: http://epathway.wollongong.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-27'
+  on_notice_from: '2019-05-30'
+  on_notice_to: '2019-06-13'
+- council_reference: DA-2019/516
+  address: 176 Princes Highway, FAIRY MEADOW NSW 2519
+  description: Residential - shed
+  info_url: http://epathway.wollongong.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-27'
+  on_notice_from: '2019-05-30'
+  on_notice_to: '2019-06-13'
+- council_reference: DA-2019/518
+  address: 71 O'Briens Road, FIGTREE NSW 2525
+  description: Residential - demolition of retaining wall, tree removals, construction
+    of an additional dwelling and swimming pool to create a dual occupancy and Subdivision
+    - Torrens title - two (2) lots
+  info_url: http://epathway.wollongong.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-27'
+  on_notice_from: '2019-05-30'
+  on_notice_to: '2019-06-13'
+- council_reference: DA-2019/519
+  address: 47 Hillcrest Avenue, WOONONA NSW 2517
+  description: Residential - demolition of garage, sheds, tree removal, construction
+    of new dwelling to create a dual occupancy (detached) and Subdivision - Torrens
+    title - two (2) lots
+  info_url: http://epathway.wollongong.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-27'
+  on_notice_from: '2019-05-30'
+  on_notice_to: '2019-06-13'
+- council_reference: DA-2019/521
+  address: 69 Dobbie Avenue, EAST CORRIMAL NSW 2518
+  description: Residential - alterations and additions to carport
+  info_url: http://epathway.wollongong.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-27'
+  on_notice_from: '2019-05-30'
+  on_notice_to: '2019-06-13'
+- council_reference: DA-2019/527
+  address: 33C Woodlawn Avenue, MANGERTON NSW 2500
+  description: Residential - Dwelling house with attached garage and swimming pool.
+  info_url: http://epathway.wollongong.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-28'
+  on_notice_from: '2019-05-30'
+  on_notice_to: '2019-06-13'
+- council_reference: DA-2019/86/A
+  address: 38 Coronet Place, DAPTO NSW 2530
+  description: Residential - swimming pool - Modification A - addition of deck surrounding
+    pool and movement of an existing retaining wall
+  info_url: http://epathway.wollongong.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-22'
+  on_notice_from: '2019-05-29'
+  on_notice_to: '2019-06-13'

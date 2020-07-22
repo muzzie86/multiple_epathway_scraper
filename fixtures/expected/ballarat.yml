@@ -1,0 +1,110 @@
+---
+- council_reference: PLP/2003/880/A
+  address: 30 Lydiard Street North, BALLARAT CENTRAL VIC 3350
+  description: |-
+    Amend condition 4
+    Extend the hours from 1am-3am on balcony
+  info_url: https://eservices.ballarat.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-03-25'
+- council_reference: PLP/2018/792
+  address: 607 Eureka Street, BALLARAT EAST VIC 3350
+  description: Development of three additional dwellings and four lot subdivision
+  info_url: https://eservices.ballarat.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2018-11-19'
+- council_reference: PLP/2019/104
+  address: 400-404 High Street, LEARMONTH VIC 3352
+  description: Development of a dwelling and outbuilding.
+  info_url: https://eservices.ballarat.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-02-15'
+- council_reference: PLP/2019/124
+  address: 36 Icon Drive, DELACOMBE VIC 3356
+  description: Use of the land for place of assembly (fitness studio) and a reduction
+    car parking
+  info_url: https://eservices.ballarat.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-02-21'
+- council_reference: PLP/2019/156
+  address: 1 Malakoff Street, NEWINGTON VIC 3350
+  description: Partial demolition, alterations and additions to the dwelling
+  info_url: https://eservices.ballarat.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-03-05'
+- council_reference: PLP/2019/163
+  address: 879 Remembrance Drive, WINDERMERE VIC 3352
+  description: Use and development of land for retail premises (landscape gardening
+    supplies/plant nursery, reduction in the car parking requirement, advertising
+    signage and alteration of access to a road zone
+  info_url: https://eservices.ballarat.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-03-12'
+- council_reference: PLP/2019/176
+  address: 10 Ryan Street, BROWN HILL VIC 3350
+  description: Multi lot subdivision and removal of native vegetation
+  info_url: https://eservices.ballarat.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-03-18'
+- council_reference: PLP/2019/181
+  address: 1 Cecile Court, BALLARAT EAST VIC 3350
+  description: Development of a second dwelling and two lot subdivision of proposed
+    Lot 2 on PS721922F
+  info_url: https://eservices.ballarat.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-03-19'
+- council_reference: PLP/2019/201
+  address: 1 Walsh Avenue, BALLARAT NORTH VIC 3350
+  description: Two lot subdivision
+  info_url: https://eservices.ballarat.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-03-28'
+- council_reference: PLP/2019/208
+  address: 312 Simpson Street, BUNINYONG VIC 3357
+  description: Development of a dwelling
+  info_url: https://eservices.ballarat.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-03-29'
+- council_reference: PLP/2019/218
+  address: 5-7 Humffray Street North, BAKERY HILL VIC 3350
+  description: Extensions to an existing use of land for motel accommodation
+  info_url: https://eservices.ballarat.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-04-03'
+- council_reference: PLP/2019/221
+  address: 102 Duncan Street, LAKE WENDOUREE VIC 3350
+  description: Two lot subdivision, development of two dwellings, fencing, crossovers
+    and associated works
+  info_url: https://eservices.ballarat.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-04-04'
+- council_reference: PLP/2019/244
+  address: 117 Elsworth Street East, CANADIAN VIC 3350
+  description: Use of land for materials recycling (retrospective)
+  info_url: https://eservices.ballarat.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-04-17'
+- council_reference: PLP/2019/248
+  address: 210B Wendouree Parade, LAKE WENDOUREE VIC 3350
+  description: Partial demolition, alterations and additions to dwelling
+  info_url: https://eservices.ballarat.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-04-17'
+- council_reference: PLP/2019/252
+  address: 24 Loch Avenue, BALLARAT CENTRAL VIC 3350
+  description: Partial demolition, alterations and additions to a dwelling
+  info_url: https://eservices.ballarat.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-04-23'
+- council_reference: PLP/2019/261
+  address: 105 Forest Street, LAKE WENDOUREE VIC 3350
+  description: Development of four dwellings and four lot subdivision
+  info_url: https://eservices.ballarat.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-04-29'
+- council_reference: PLP/2019/278
+  address: 54 Humffray Street North, BALLARAT EAST VIC 3350
+  description: Development of a telecommunications facility
+  info_url: https://eservices.ballarat.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-09'

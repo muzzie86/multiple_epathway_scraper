@@ -1,0 +1,13 @@
+---
+- council_reference: 2020/146
+  address: Hirsts Road, BOOLARRA VIC 3870
+  description: Use and Development of land for a single dwelling
+  info_url: https://eservices.latrobe.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-23'
+- council_reference: 2020/148
+  address: 50 Hoven Drive, TRARALGON VIC 3844
+  description: Development of an outbuilding ancillary to a dwelling
+  info_url: https://eservices.latrobe.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-24'

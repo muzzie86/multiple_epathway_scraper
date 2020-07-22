@@ -1,0 +1,3192 @@
+---
+- council_reference: BC/49/2020
+  address: 44 Buttaba Road, BRIGHTWATERS NSW 2264
+  description: Building Information Certificate
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-24'
+- council_reference: BC/50/2020
+  address: 2 Myrtle Street, TERALBA NSW 2284
+  description: Building Information Certificate
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-26'
+- council_reference: BC/51/2020
+  address: 88 Pacific Highway, JEWELLS NSW 2280
+  description: Building Information Certificate
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-26'
+- council_reference: BC/52/2020
+  address: 59 Berkeley Street, SPEERS POINT NSW 2284
+  description: Building Information Certificate
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-08'
+- council_reference: BC/53/2020
+  address: 7 Steel Street, REDHEAD NSW 2290
+  description: Building Information Certificate
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-17'
+- council_reference: CC/145/2020/A
+  address: 3 Hawkeshead Way, LAKELANDS NSW 2282
+  description: Additions & alterations to existing dwelling and retaining walls, swimming
+    pool and associated barrier/fence - amended poor location & floor plan alterations
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-24'
+- council_reference: CC/1493/2016/A
+  address: 18 Marmong Street, BOORAGUL NSW 2284
+  description: Alterations and Additions to Art Gallery - Amendment
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-23'
+- council_reference: CC/1676/2018/B
+  address: 9 Delaware Drive, MACQUARIE HILLS NSW 2285
+  description: Alterations & Additions - Amended Plans
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-01'
+- council_reference: CC/313/2020/A
+  address: 88 Portland Drive, CAMERON PARK NSW 2285
+  description: Change of heights to retaining walls
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-10'
+- council_reference: CC/377/2020/A
+  address: 58 Victory Parade, TORONTO NSW 2283
+  description: Shade Structure Covers
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-26'
+- council_reference: CC/401/2020/A
+  address: 39 Marks Parade, MARKS POINT NSW 2280
+  description: Amended Dwelling
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-20'
+- council_reference: CC/487/2012/A
+  address: 73 Lake View Road, WANGI WANGI NSW 2267
+  description: Additions and Alterations to Deck and Garage - Modification
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-02'
+- council_reference: CC/589/2019/A
+  address: 41 Jamieson Street, GATESHEAD NSW 2290
+  description: Alterations and Additions to Dwelling and Relocation of existing Shed
+    - Minor changes to shed
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-22'
+- council_reference: CC/606/2020/A
+  address: 38 Alexander Parade, ARCADIA VALE NSW 2283
+  description: Detached Secondary Dwelling - Change in Engineering Detail
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-22'
+- council_reference: CC/624/2020/A
+  address: 17 Janice Street, WARNERS BAY NSW 2282
+  description: Alterations and Additions, Swimming Pool and Associated Safety Barriers
+    - Amendment
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-16'
+- council_reference: CC/624/2020/B
+  address: 23 Highland Avenue, COORANBONG NSW 2265
+  description: Dwelling & Retaining Walls
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-16'
+- council_reference: CC/716/2020
+  address: 25 Surfside Drive, CATHERINE HILL BAY NSW 2281
+  description: Swimming Pool
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-22'
+- council_reference: CC/717/2020
+  address: 153 Main Road, CARDIFF NSW 2285
+  description: Secondary Dwelling
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-22'
+- council_reference: CC/718/2020
+  address: 5 Watalong Way, EDGEWORTH NSW 2285
+  description: Attached Dual Occupancy with Attached Garages
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-22'
+- council_reference: CC/719/2020
+  address: 21 Rayford Street, WARNERS BAY NSW 2282
+  description: Deck
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-22'
+- council_reference: CC/720/2020
+  address: 12/185 Excelsior Parade, TORONTO NSW 2283
+  description: Attached Insulated Patio Roofs
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-22'
+- council_reference: CC/721/2020
+  address: 20 Merinda Close, ADAMSTOWN HEIGHTS NSW 2289
+  description: Alterations & Additions to Dwelling - Covered Deck & Spa
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-22'
+- council_reference: CC/722/2020
+  address: 309 George Booth Drive, CAMERON PARK NSW 2285
+  description: Minor External Facade & Associated Site Signage Amendments - Woolworths
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-22'
+- council_reference: CC/723/2020
+  address: 4 Davenport Street, RANKIN PARK NSW 2287
+  description: Alterations & Additions to an Existing Dwelling
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-22'
+- council_reference: CC/724/2020
+  address: 21 Lucilla Ridge, MACQUARIE HILLS NSW 2285
+  description: Dwelling
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-22'
+- council_reference: CC/725/2020
+  address: 106 Fencott Drive, JEWELLS NSW 2280
+  description: Retaining Wall & Associated Earthworks
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-22'
+- council_reference: CC/726/2020
+  address: 2/80 Myles Avenue, WARNERS BAY NSW 2282
+  description: Screen Enclosure
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-22'
+- council_reference: CC/727/2020
+  address: 25 Hale Street, CATHERINE HILL BAY NSW 2281
+  description: Landscape & Fencing Works
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-22'
+- council_reference: CC/728/2020
+  address: 26 Ambrose Street, CAREY BAY NSW 2283
+  description: Swimming Pool & Associated Safety Barriers, Retaining Wall and Boat
+    Shed
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-23'
+- council_reference: CC/729/2020
+  address: 43 Nyanda Avenue, FLORAVILLE NSW 2280
+  description: Lightweight Storage Shed & Workshop
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-23'
+- council_reference: CC/730/2020
+  address: 21 Lucilla Ridge, MACQUARIE HILLS NSW 2285
+  description: Retaining Walls & Associated Earthworks
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-23'
+- council_reference: CC/730/2020/A
+  address: 21 Lucilla Ridge, MACQUARIE HILLS NSW 2285
+  description: Retaining Walls & Associated Earthworks
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-01'
+- council_reference: CC/731/2020
+  address: 330 Fishery Point Road, BONNELLS BAY NSW 2264
+  description: Alterations & Additions to Existing Hotel/Motel
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-23'
+- council_reference: CC/732/2020
+  address: 70C Buttaba Road, BRIGHTWATERS NSW 2264
+  description: Patio Cover
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-23'
+- council_reference: CC/733/2020
+  address: 47 Mills Street, WARNERS BAY NSW 2282
+  description: Dual Occupancy (Attached)
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-23'
+- council_reference: CC/734/2020
+  address: 18 Pallister Court, CAMERON PARK NSW 2285
+  description: Dwelling
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-24'
+- council_reference: CC/735/2020
+  address: 81 Sunlight Parade, FISHING POINT NSW 2283
+  description: Opening Patio Cover
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-24'
+- council_reference: CC/736/2020
+  address: 148 Wyee Road, WYEE NSW 2259
+  description: Steel Garage/Shed
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-24'
+- council_reference: CC/737/2020
+  address: 66-74 The Boulevarde, TORONTO NSW 2283
+  description: Alterations & Additions to Commercial Premises
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-24'
+- council_reference: CC/738/2020
+  address: 6 Woden Close, CARDIFF NSW 2285
+  description: Addition of Rear Deck & Roof
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-24'
+- council_reference: CC/739/2020
+  address: 129 Fishing Point Road, FISHING POINT NSW 2283
+  description: Proposed boat shed, decking area, slipway and shared jetty
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-24'
+- council_reference: CC/740/2020
+  address: 71 Carrington Street, WEST WALLSEND NSW 2286
+  description: Alterations & Additions
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-24'
+- council_reference: CC/741/2020
+  address: 2 Jarrod Close, CHARLESTOWN NSW 2290
+  description: Secondary Dwelling detached  and Carport
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-24'
+- council_reference: CC/742/2020
+  address: 61 Wyee Road, WYEE NSW 2259
+  description: Seniors Housing - Single Dwelling on Rose Street
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-24'
+- council_reference: CC/743/2020
+  address: 35 Oakwood Road, BALMORAL NSW 2283
+  description: Dwelling alteration and additions
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-24'
+- council_reference: CC/744/2020
+  address: 10 Anouska Street, CATHERINE HILL BAY NSW 2281
+  description: Dwelling House & Attached Garage
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-24'
+- council_reference: CC/745/2020
+  address: 5 Freetail Drive, MURRAYS BEACH NSW 2281
+  description: Dwelling & Retaining Walls
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-25'
+- council_reference: CC/746/2020
+  address: 23 Shelley Street, TORONTO NSW 2283
+  description: Deck (outdoor living space attached to dwelling)
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-25'
+- council_reference: CC/747/2020
+  address: 27 Durham Drive, EDGEWORTH NSW 2285
+  description: Carport
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-25'
+- council_reference: CC/748/2020
+  address: 17 Longworth Avenue, CARDIFF NSW 2285
+  description: Alterations & Additions To A Dwelling
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-25'
+- council_reference: CC/749/2020
+  address: 22 Lucilla Ridge, MACQUARIE HILLS NSW 2285
+  description: Swimming Pool
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-25'
+- council_reference: CC/751/2020
+  address: 17 Elton Close, ADAMSTOWN HEIGHTS NSW 2289
+  description: Alterations & Additions To A Dwelling Stage 1 - Roof & Slab
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-25'
+- council_reference: CC/752/2020
+  address: 54 Skye Point Road, COAL POINT NSW 2283
+  description: Alterations & Additions To A Dwelling
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-25'
+- council_reference: CC/753/2020
+  address: 194 Wommara Avenue, BELMONT NORTH NSW 2280
+  description: Alterations and Additions to Existing Dwelling
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-26'
+- council_reference: CC/754/2020
+  address: 115 Wyndham Way, ELEEBANA NSW 2282
+  description: Single Storey Dwelling, Swimming Pool & Associated Safety Barriers
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-26'
+- council_reference: CC/755/2020
+  address: 14 Guest Street, BOOLAROO NSW 2284
+  description: Attached Primary & Secondary Dwellings
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-26'
+- council_reference: CC/756/2020
+  address: 11 Apple Gum Way, MURRAYS BEACH NSW 2281
+  description: New Dwelling
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-26'
+- council_reference: CC/757/2020
+  address: 19 Heggie Close, CAMERON PARK NSW 2285
+  description: Retaining Wall
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-26'
+- council_reference: CC/759/2020
+  address: 58 Ocean View Parade, CAVES BEACH NSW 2281
+  description: Alterations and Additions to an Existing Dwelling
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-26'
+- council_reference: CC/76/2020/A
+  address: 36 Ascot Parade, BLACKALLS PARK NSW 2283
+  description: Alteration & Additions to existing dwelling
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-16'
+- council_reference: CC/760/2020
+  address: 53 Cherry Road, ELEEBANA NSW 2282
+  description: Swimming Pool
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-26'
+- council_reference: CC/761/2020
+  address: 2 Gray Street, SWANSEA NSW 2281
+  description: Dwelling
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-27'
+- council_reference: CC/762/2020
+  address: 17 Janice Street, WARNERS BAY NSW 2282
+  description: Alterations and Additions, Swimming Pool and Associated Safety Barriers
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-28'
+- council_reference: CC/763/2020
+  address: 15 Breakwell Road, CAMERON PARK NSW 2285
+  description: Dwelling & retaining walls
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-29'
+- council_reference: CC/764/2020
+  address: 94 Warners Bay Road, WARNERS BAY NSW 2282
+  description: Dwelling
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-29'
+- council_reference: CC/765/2020
+  address: 15 Linton Close, EDGEWORTH NSW 2285
+  description: Shed & Retaining Wall
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-30'
+- council_reference: CC/766/2020
+  address: 59 Piriwal Street, PELICAN NSW 2281
+  description: Extension to existing Shed
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-30'
+- council_reference: CC/767/2020
+  address: 6 Estelville Circuit, CAMERON PARK NSW 2285
+  description: Dwelling House
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-30'
+- council_reference: CC/768/2020
+  address: 2 Ethel Street, BELMONT SOUTH NSW 2280
+  description: Alterations & Additions To A Dwelling & Swimming Pool & garage/Shed
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-30'
+- council_reference: CC/769/2020
+  address: 21 Glendale Drive, GLENDALE NSW 2285
+  description: Secondary Dwelling
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-30'
+- council_reference: CC/770/2020
+  address: 30 Tuloa Street, WANGI WANGI NSW 2267
+  description: Dwelling and Swimming Pool and Retaining Walls
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-30'
+- council_reference: CC/771/2020
+  address: 40 Harris Street, CAMERON PARK NSW 2285
+  description: SEPP Seniors Living - 6 Self Care Units (Units 1 - 6)
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-01'
+- council_reference: CC/772/2020
+  address: 22 Sanctuary Grove, TINGIRA HEIGHTS NSW 2290
+  description: Single Dwelling
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-01'
+- council_reference: CC/774/2020
+  address: 18 Lonus Avenue, WHITEBRIDGE NSW 2290
+  description: Alterations & additions to Dwelling, Deck, Retaining Walls, Pool &
+    Barriers
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-01'
+- council_reference: CC/775/2020
+  address: 4 McEwan Street, BELMONT SOUTH NSW 2280
+  description: Alteration & Additions to Existing Dwelling
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-01'
+- council_reference: CC/776/2020
+  address: 41 Coal Point Road, COAL POINT NSW 2283
+  description: Secondary Dwelling (conversion of existing detached garage)
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-01'
+- council_reference: CC/777/2020
+  address: 4 Quinn Street, CATHERINE HILL BAY NSW 2281
+  description: Dwelling House
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-01'
+- council_reference: CC/778/2020
+  address: 187 Wyee Road, WYEE NSW 2259
+  description: swimming pool
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-01'
+- council_reference: CC/779/2020
+  address: 20 Pacific Highway, BENNETTS GREEN NSW 2290
+  description: Service Station and Take Away Food & Drink Premises
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-02'
+- council_reference: CC/780/2020
+  address: 1 Harden Close, ADAMSTOWN HEIGHTS NSW 2289
+  description: New Retaining Wall
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-02'
+- council_reference: CC/782/2020
+  address: 213 Grandview Road, NEW LAMBTON HEIGHTS NSW 2305
+  description: New Swimming Pool
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-02'
+- council_reference: CC/783/2020
+  address: 29 Imperial Close, FLORAVILLE NSW 2280
+  description: Alterations and additions
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-03'
+- council_reference: CC/784/2020
+  address: 69 Comel Avenue, CAMERON PARK NSW 2285
+  description: Single Storey Dwelling
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-03'
+- council_reference: CC/785/2020
+  address: 27 Dudley Road, CHARLESTOWN NSW 2290
+  description: Alterations & Additions to a Dwelling and Carport
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-03'
+- council_reference: CC/786/2020
+  address: 7 Karangali Street, EDGEWORTH NSW 2285
+  description: Dwelling House
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-03'
+- council_reference: CC/787/2020
+  address: 9 Alice Street, CARDIFF NSW 2285
+  description: Dwelling Alterations and Additions
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-06'
+- council_reference: CC/788/2020
+  address: 1 Glenrock Close, WHITEBRIDGE NSW 2290
+  description: Alterations & Additions to a Dwelling
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-06'
+- council_reference: CC/789/2020
+  address: 3 Jesson Parade, WARNERS BAY NSW 2282
+  description: Dwelling House and Attached Garage
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-06'
+- council_reference: CC/790/2020
+  address: 22 Sanctuary Grove, TINGIRA HEIGHTS NSW 2290
+  description: Machinery and Storage Shed
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-06'
+- council_reference: CC/791/2020
+  address: 68 Stollard Street, CATHERINE HILL BAY NSW 2281
+  description: Alterations and Additions
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-06'
+- council_reference: CC/792/2020
+  address: 5 Harmon Drive, COORANBONG NSW 2265
+  description: Alterations & Additions
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-06'
+- council_reference: CC/793/2020
+  address: 2 Milburn Circuit, BOOLAROO NSW 2284
+  description: New single storey dwelling
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-06'
+- council_reference: CC/794/2020
+  address: 39 Cherry Road, ELEEBANA NSW 2282
+  description: Patio Cover
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-06'
+- council_reference: CC/796/2020
+  address: 16 Bayview Avenue, BLACKALLS PARK NSW 2283
+  description: Secondary Dwelling, Detached Studio and Carport and Removal of Trees
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-07'
+- council_reference: CC/797/2020
+  address: 66 Northridge Drive, CAMERON PARK NSW 2285
+  description: Multi Dwelling Units - Stage 21 - 100,101,102,103
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-07'
+- council_reference: CC/798/2020
+  address: 4 Mallee Street, GATESHEAD NSW 2290
+  description: Dual Occupancy
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-07'
+- council_reference: CC/799/2020
+  address: 40 Surfside Drive, CATHERINE HILL BAY NSW 2281
+  description: Inground Concrete Swimming Pool
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-07'
+- council_reference: CC/800/2020
+  address: 7 Wallace Street, WEST WALLSEND NSW 2286
+  description: Alterations & Additions
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-07'
+- council_reference: CC/801/2020
+  address: 10 Bridge Street, WEST WALLSEND NSW 2286
+  description: Alterations & Additions
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-07'
+- council_reference: CC/802/2020
+  address: 2B First Street, BOOLAROO NSW 2284
+  description: Dwelling
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-08'
+- council_reference: CC/803/2020
+  address: 17 Irene Crescent, COORANBONG NSW 2265
+  description: Dwelling House
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-08'
+- council_reference: CC/804/2020
+  address: 15 Heartwood Drive, EDGEWORTH NSW 2285
+  description: Dwelling House
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-08'
+- council_reference: CC/805/2020
+  address: 129 Main Road, SPEERS POINT NSW 2284
+  description: Alterations and Additions
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-08'
+- council_reference: CC/806/2020
+  address: 82 Sealand Road, FISHING POINT NSW 2283
+  description: Retaining Walls and Stairs
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-08'
+- council_reference: CC/807/2020
+  address: 5 Pacific Street, CAVES BEACH NSW 2281
+  description: Dwelling
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-09'
+- council_reference: CC/808/2020
+  address: 31 Crawford Road, COORANBONG NSW 2265
+  description: Patio Cover
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-09'
+- council_reference: CC/809/2020
+  address: 23 Devonshire Street, CAMERON PARK NSW 2285
+  description: Swimming Pool & Associated Safety Barriers
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-09'
+- council_reference: CC/810/2020
+  address: 76 Babers Road, COORANBONG NSW 2265
+  description: Dwelling House
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-09'
+- council_reference: CC/811/2020
+  address: 8 Holt Street, WARNERS BAY NSW 2282
+  description: Swimming Pool & Associated Safety Barriers
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-09'
+- council_reference: CC/812/2020
+  address: 2 Jetty Point Drive, SWANSEA NSW 2281
+  description: Shed
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-09'
+- council_reference: CC/813/2020
+  address: 100 Violet Town Road, BELMONT NORTH NSW 2280
+  description: Dwelling Additions
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-09'
+- council_reference: CC/814/2020
+  address: 8/14 Superior Avenue, EDGEWORTH NSW 2285
+  description: Medical Centre
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-09'
+- council_reference: CC/815/2020
+  address: 8 Government Road, BARNSLEY NSW 2278
+  description: Dwelling House
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-09'
+- council_reference: CC/816/2020
+  address: 12 Cathrine Street, KOTARA SOUTH NSW 2289
+  description: Swimming Pool
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-10'
+- council_reference: CC/817/2020
+  address: 22B Thomas Street, BARNSLEY NSW 2278
+  description: Dwelling house
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-10'
+- council_reference: CC/818/2020
+  address: 1 Riesling Road, BONNELLS BAY NSW 2264
+  description: Dwelling alterations and additions
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-10'
+- council_reference: CC/819/2020
+  address: 18 Letchworth Parade, BALMORAL NSW 2283
+  description: Water recreation structures - Jetty, Existing works - Slipway, Reclamation/
+    Seawall
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-10'
+- council_reference: CC/820/2020
+  address: 12 Milburn Circuit, BOOLAROO NSW 2284
+  description: Dwelling House
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-11'
+- council_reference: CC/821/2020
+  address: 2 Terence Street, CARDIFF SOUTH NSW 2285
+  description: Dual occupancy (detached)
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-12'
+- council_reference: CC/822/2020
+  address: 275-277 Main Road, CARDIFF NSW 2285
+  description: Noise acoustic works under the TfNSW Freight Noise Attenuation Program
+    (FNAP)
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-13'
+- council_reference: CC/823/2020
+  address: 4 Gaites Drive, CAMERON PARK NSW 2285
+  description: Attached Dual Occupancy & Garages (Attached)
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-13'
+- council_reference: CC/824/2020
+  address: 11 Stenhouse Drive, ELEEBANA NSW 2282
+  description: Dwelling, Swimming Pool, Retaining Walls & Detached Garage
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-13'
+- council_reference: CC/825/2020
+  address: 8 Prosperity Close, MORISSET NSW 2264
+  description: Light Industrial Development
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-13'
+- council_reference: CC/826/2020
+  address: 21 Estelville Circuit, CAMERON PARK NSW 2285
+  description: Dwelling
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-13'
+- council_reference: CC/827/2020
+  address: 12 Victory Street, COORANBONG NSW 2265
+  description: Swimming Pool
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-13'
+- council_reference: CC/828/2020
+  address: 15 Prosperity Close, MORISSET NSW 2264
+  description: Stage 2 - Construction or Reception, Arrangement Rooms, Storeroom and
+    Associated Services
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-13'
+- council_reference: CC/829/2020
+  address: 10 Stockland Drive, GLENDALE NSW 2285
+  description: Refurbishment of Existing Restaurant and Signage - Hungry Jacks
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-13'
+- council_reference: CC/830/2020
+  address: 25 Coal Point Road, COAL POINT NSW 2283
+  description: Secondary Dwelling
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-13'
+- council_reference: CC/831/2020
+  address: 33 Olsen Crescent, WARNERS BAY NSW 2282
+  description: Multi Dwelling Housing - 12 units
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-13'
+- council_reference: CC/832/2020
+  address: 4 Warner Street, WARNERS BAY NSW 2282
+  description: Swimming Pool and Deck
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-13'
+- council_reference: CC/833/2020
+  address: 44 Balcolyn Street, BALCOLYN NSW 2264
+  description: Dwelling & Garage
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-14'
+- council_reference: CC/834/2020
+  address: 21 Waterside Avenue, SUNSHINE NSW 2264
+  description: Dwelling House - Alterations and Additions, Garage and Boatshed
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-14'
+- council_reference: CC/835/2020
+  address: 3 Henry Street, CARDIFF NSW 2285
+  description: Alterations & Additions to a Dwelling & Deck
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-14'
+- council_reference: CC/836/2020
+  address: 1403 Hue Hue Road, WYEE NSW 2259
+  description: Single Story Attached Dual Occupancy
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-15'
+- council_reference: CC/837/2020
+  address: 27 Mawson Close, CAVES BEACH NSW 2281
+  description: Alterations to Gaming Room Only - Excludes Rear Deck Area
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-15'
+- council_reference: CC/838/2020
+  address: 13 Werona Crescent, VALENTINE NSW 2280
+  description: Alterations & Additions, Retaining Walls & Swimming Pool
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-15'
+- council_reference: CC/839/2020
+  address: 77 Burton Road, ELEEBANA NSW 2282
+  description: Retaining Wall (On boundary between 2 properties)
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-15'
+- council_reference: CC/840/2020
+  address: 5 Sealand Road, FISHING POINT NSW 2283
+  description: Deck Extension
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-16'
+- council_reference: CC/841/2020
+  address: 72 Milburn Circuit, BOOLAROO NSW 2284
+  description: New single storey dwelling
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-16'
+- council_reference: CC/842/2020
+  address: 29 Carbeen Street, GATESHEAD NSW 2290
+  description: Garage addition
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-16'
+- council_reference: CC/843/2020
+  address: 127 Dandaraga Road, MIRRABOOKA NSW 2264
+  description: Shed/Garage
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-16'
+- council_reference: CC/844/2020
+  address: 2 Outrigger Drive, TERALBA NSW 2284
+  description: Dwelling House
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-17'
+- council_reference: CC/845/2020
+  address: 1 Silkstone Circuit, CATHERINE HILL BAY NSW 2281
+  description: Swimming Pool
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-17'
+- council_reference: CC/846/2020
+  address: 12 Clara Street, BELMONT SOUTH NSW 2280
+  description: Alterations & Additions
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-17'
+- council_reference: CC/847/2020
+  address: 833 Pacific Highway, BELMONT SOUTH NSW 2280
+  description: Lightweight Garage, Workshop & Storage Shed
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-17'
+- council_reference: CC/848/2020
+  address: 42A Bulgonia Road, BRIGHTWATERS NSW 2264
+  description: Construction of a single storey, 4 bedroom home with attached double
+    garage
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-18'
+- council_reference: CC/849/2020
+  address: 14 Faucett Street, BLACKALLS PARK NSW 2283
+  description: Multi Dwelling Housing
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-20'
+- council_reference: CC/850/2020
+  address: 85 Albert Street, WARNERS BAY NSW 2282
+  description: Two skillion Carports & Awning over rear entry to building
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-20'
+- council_reference: CC/851/2020
+  address: 40 Barraba Street, WHITEBRIDGE NSW 2290
+  description: Dwelling House Additions & Swimming Pool
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-20'
+- council_reference: CC/852/2020
+  address: 155 Warners Bay Road, WARNERS BAY NSW 2282
+  description: Patio Cover
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-20'
+- council_reference: CC/853/2020
+  address: 248 Charlestown Road, CHARLESTOWN NSW 2290
+  description: Extension to Existing Verandah
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-20'
+- council_reference: CC/866/2015/A
+  address: 53A Thompson Road, SPEERS POINT NSW 2284
+  description: Alterations & Additions to Dwelling
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-14'
+- council_reference: CDC/170/2020/A
+  address: 7 Heartwood Drive, EDGEWORTH NSW 2285
+  description: Dwelling & Retaining Walls - Addition to Kitchen Window
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-30'
+- council_reference: CDC/236/2019/B
+  address: 155 Burwood Road, WHITEBRIDGE NSW 2290
+  description: Removal of Dwelling Alterations & Additions Excluding Attached Garage
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-01'
+- council_reference: CDC/282/2020/A
+  address: 29 Cockatiel Street, TORONTO NSW 2283
+  description: Single Storey Dwelling & attached Garage
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-22'
+- council_reference: CDC/332/2020/A
+  address: 7 Farmer Avenue, WYEE NSW 2259
+  description: Residential Dwelling
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-25'
+- council_reference: CDC/364/2020/A
+  address: 14 Mirrabay Drive, MORISSET PARK NSW 2264
+  description: Single Storey Dwelling - Facade Change
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-23'
+- council_reference: CDC/393/2020/A
+  address: 43 Croudace Street, EDGEWORTH NSW 2285
+  description: Single Storey Dwelling
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-07'
+- council_reference: CDC/394/2020
+  address: 72 Seaham Street, HOLMESVILLE NSW 2286
+  description: Demolition of Dwelling
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-21'
+- council_reference: CDC/395/2020
+  address: 93 Fishermans Drive, TERALBA NSW 2284
+  description: Dwelling House & Associated Retaining
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-22'
+- council_reference: CDC/396/2020
+  address: 49 Church Street, GATESHEAD NSW 2290
+  description: Secondary Dwelling
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-22'
+- council_reference: CDC/397/2020
+  address: 18 Thurston Street, BOOLAROO NSW 2284
+  description: Single Storey Dwelling
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-22'
+- council_reference: CDC/398/2020
+  address: 324 Charlestown Road, CHARLESTOWN NSW 2290
+  description: Internal Fit-out Works
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-22'
+- council_reference: CDC/399/2020
+  address: 11 Shirara Close, CAMERON PARK NSW 2285
+  description: Swimming Pool
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-22'
+- council_reference: CDC/400/2020
+  address: 105 Ntaba Road, JEWELLS NSW 2280
+  description: Internal Alterations to Dwelling (Bathroom)
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-22'
+- council_reference: CDC/401/2020
+  address: 86 Carroll Circuit, COORANBONG NSW 2265
+  description: Dwelling
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-22'
+- council_reference: CDC/402/2020
+  address: 30 McDowell Street, COORANBONG NSW 2265
+  description: Dwelling
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-22'
+- council_reference: CDC/403/2020
+  address: 309 George Booth Drive, CAMERON PARK NSW 2285
+  description: Tenancy Fitout of Shop (Star Nails and Wax)
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-22'
+- council_reference: CDC/404/2020
+  address: 21 Fishermans Drive, TERALBA NSW 2284
+  description: Dwelling House
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-23'
+- council_reference: CDC/405/2020
+  address: 98 Carroll Circuit, COORANBONG NSW 2265
+  description: Dwelling
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-23'
+- council_reference: CDC/406/2020
+  address: 12 Park Avenue, CAVES BEACH NSW 2281
+  description: Swimming Pool
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-23'
+- council_reference: CDC/407/2020
+  address: 17 Shipwright Street, COORANBONG NSW 2265
+  description: Dwelling
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-23'
+- council_reference: CDC/408/2020
+  address: 45 Queens Avenue, CARDIFF NSW 2285
+  description: Alterations & Additions to a Dwelling
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-23'
+- council_reference: CDC/409/2020
+  address: 4 Johanson Road, COORANBONG NSW 2265
+  description: Dwelling
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-23'
+- council_reference: CDC/410/2020
+  address: 12 Dunblane Close, NEW LAMBTON HEIGHTS NSW 2305
+  description: Removal/Demolition of in-ground spa pool
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-24'
+- council_reference: CDC/411/2020
+  address: 5 Monterey Avenue, MACQUARIE HILLS NSW 2285
+  description: Back Awning
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-24'
+- council_reference: CDC/412/2020
+  address: 12 Thurston Street, BOOLAROO NSW 2284
+  description: Single Storey Dwelling
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-24'
+- council_reference: CDC/413/2020
+  address: 14 Thurston Street, BOOLAROO NSW 2284
+  description: Single Storey Dwelling
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-24'
+- council_reference: CDC/414/2020
+  address: 6 Bateup Road, WYEE NSW 2259
+  description: Retaining Wall & Associated Earthworks
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-24'
+- council_reference: CDC/415/2020
+  address: 76 Jennifer Street, CHARLESTOWN NSW 2290
+  description: Alterations & Additions to a Dwelling
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-24'
+- council_reference: CDC/416/2020
+  address: 39 Haig Street, BELMONT NSW 2280
+  description: Swimming Pool
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-24'
+- council_reference: CDC/418/2020
+  address: 142 Dudley Road, WHITEBRIDGE NSW 2290
+  description: Divide Tenancy Into Two
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-25'
+- council_reference: CDC/419/2020
+  address: 23 Crampton Street, BOOLAROO NSW 2284
+  description: Dwelling
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-25'
+- council_reference: CDC/420/2020
+  address: 12 Bellona Chase, CAMERON PARK NSW 2285
+  description: Swimming Pool
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-25'
+- council_reference: CDC/421/2020
+  address: 5 Pateman Place, WYEE NSW 2259
+  description: In ground Fibre Glass Pool
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-25'
+- council_reference: CDC/422/2020
+  address: 190 Fishermans Drive, TERALBA NSW 2284
+  description: Retaining Wall & Associated Earthworks
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-25'
+- council_reference: CDC/423/2020
+  address: 91 Fishermans Drive, TERALBA NSW 2284
+  description: Dwelling
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-26'
+- council_reference: CDC/424/2020
+  address: 10 Crampton Street, BOOLAROO NSW 2284
+  description: Dwelling
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-26'
+- council_reference: CDC/425/2020
+  address: 20 Inglis Street, KOTARA SOUTH NSW 2289
+  description: Alterations & Additions To A Dwelling & Detached garage and Demolition
+    of shed
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-26'
+- council_reference: CDC/426/2020
+  address: 99 Fishermans Drive, TERALBA NSW 2284
+  description: Single Storey Dwelling
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-26'
+- council_reference: CDC/427/2020
+  address: 16 Milburn Circuit, BOOLAROO NSW 2284
+  description: Dwelling
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-26'
+- council_reference: CDC/428/2020
+  address: 7 Ocean View Parade, CHARLESTOWN NSW 2290
+  description: Alterations and additions to existing dwelling
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-27'
+- council_reference: CDC/429/2020
+  address: 50 Wakool Street, WINDALE NSW 2306
+  description: Secondary Dwelling
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-30'
+- council_reference: CDC/430/2020
+  address: 223 Northlakes Drive, CAMERON PARK NSW 2285
+  description: Swimming Pool
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-30'
+- council_reference: CDC/431/2020
+  address: 147 Wommara Avenue, BELMONT NORTH NSW 2280
+  description: Dual Occupancy
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-30'
+- council_reference: CDC/432/2020
+  address: 1441 Hue Hue Road, WYEE NSW 2259
+  description: Dwelling & Retaining Wall & Associated Earthworks
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-30'
+- council_reference: CDC/433/2020
+  address: 86 Carroll Circuit, COORANBONG NSW 2265
+  description: Retaining Wall & Associated Earthworks
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-01'
+- council_reference: CDC/434/2020
+  address: 11 Courin Drive, COORANBONG NSW 2265
+  description: Dwelling
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-01'
+- council_reference: CDC/435/2020
+  address: 16 Thurston Street, BOOLAROO NSW 2284
+  description: Dwelling
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-01'
+- council_reference: CDC/436/2020
+  address: 31 Darlington Drive, BUTTABA NSW 2283
+  description: Proposed Pre Cast Plunge Pool Only.
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-01'
+- council_reference: CDC/437/2020
+  address: 24 Alice Street, CARDIFF NSW 2285
+  description: Installation of staircase
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-02'
+- council_reference: CDC/438/2020
+  address: 1444 Hue Hue Road, WYEE NSW 2259
+  description: Swimming Pool & Associated Safety Barriers
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-03'
+- council_reference: CDC/439/2020
+  address: 45 Brown Street, REDHEAD NSW 2290
+  description: Dwelling House - Alterations & Additions
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-03'
+- council_reference: CDC/440/2020
+  address: 16 Graham Street, GLENDALE NSW 2285
+  description: Secondary Dwelling
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-06'
+- council_reference: CDC/441/2020
+  address: 91 Fishermans Drive, TERALBA NSW 2284
+  description: Retaining Wall & Associated Earthworks
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-06'
+- council_reference: CDC/442/2020
+  address: 16 Thurston Street, BOOLAROO NSW 2284
+  description: Retaining Wall & Associated Earthworks
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-06'
+- council_reference: CDC/443/2020
+  address: 54 Carroll Circuit, COORANBONG NSW 2265
+  description: Swimming Pool & Associated Safety Barriers
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-07'
+- council_reference: CDC/444/2020
+  address: 6 Crampton Street, BOOLAROO NSW 2284
+  description: Dwelling House & Associated Retaining
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-07'
+- council_reference: CDC/445/2020
+  address: 62 Lonus Avenue, WHITEBRIDGE NSW 2290
+  description: Ancillary Swimming Pool, Detached Shed and Retaining Wall
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-07'
+- council_reference: CDC/446/2020
+  address: 17 Sapphire Close, CAVES BEACH NSW 2281
+  description: Eclipse Opening Roof
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-08'
+- council_reference: CDC/447/2020
+  address: 30 Pearson Street, CHARLESTOWN NSW 2290
+  description: Pretzel Hut - Fit-out and use of tenancy K109 as take-away food & premises
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-08'
+- council_reference: CDC/448/2020
+  address: 32 Shelton Street, CHARLESTOWN NSW 2290
+  description: Alterations to existing toilet facilities
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-09'
+- council_reference: CDC/449/2020
+  address: 3 Santa Maria Close, CAMERON PARK NSW 2285
+  description: Retaining Wall & Associated Earthworks
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-09'
+- council_reference: CDC/450/2020
+  address: 10 Seasands Drive, REDHEAD NSW 2290
+  description: Five (5) lot strata subdivision of a light industrial unit development
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-10'
+- council_reference: CDC/451/2020
+  address: 2/79 Albert Street, WARNERS BAY NSW 2282
+  description: Dwelling Alteration - Change window to door and window
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-10'
+- council_reference: CDC/452/2020
+  address: 8/567 Freemans Drive, COORANBONG NSW 2265
+  description: Beauty Salon
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-11'
+- council_reference: CDC/453/2020
+  address: 23 Caves Beach Road, CAVES BEACH NSW 2281
+  description: Alterations and Additions
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-13'
+- council_reference: CDC/454/2020
+  address: 36 Camellia Street, CARDIFF NSW 2285
+  description: Retaining Wall & Associated Earthworks
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-13'
+- council_reference: CDC/455/2020
+  address: 36 Macquarie Road, CARDIFF NSW 2285
+  description: Installation of Welcome Gates at Woolworths Cardiff
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-13'
+- council_reference: CDC/456/2020
+  address: 81D Fishermans Drive, TERALBA NSW 2284
+  description: Residential Dwelling
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-13'
+- council_reference: CDC/457/2020
+  address: 472 The Esplanade, WARNERS BAY NSW 2282
+  description: Change of use to cafe/restaurant with service to liquor (with appropriate
+    licenses)
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-14'
+- council_reference: CDC/458/2020
+  address: 2 Burgin Way, WARNERS BAY NSW 2282
+  description: Deck
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-14'
+- council_reference: CDC/459/2020
+  address: 2 Burgin Way, WARNERS BAY NSW 2282
+  description: Swimming Pool
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-14'
+- council_reference: CDC/460/2020
+  address: 26 Jupiter Circuit, CAMERON PARK NSW 2285
+  description: Swimming Pool
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-14'
+- council_reference: CDC/461/2020
+  address: 52 Catherine Street, SWANSEA NSW 2281
+  description: Demolition of the existing dwelling not including the shed. Preparation
+    of the site for the commencement of construction of a new dwelling
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-14'
+- council_reference: CDC/462/2020
+  address: 46 Pitt Street, TERALBA NSW 2284
+  description: Dwelling House
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-15'
+- council_reference: CDC/463/2020
+  address: 30 Waratah Street, KAHIBAH NSW 2290
+  description: Alterations & Additions to a Dwelling
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-16'
+- council_reference: CDC/464/2020
+  address: 10 Shipwright Street, COORANBONG NSW 2265
+  description: Single Storey Dwelling
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-16'
+- council_reference: CDC/465/2020
+  address: 17 Crampton Street, BOOLAROO NSW 2284
+  description: Dwelling
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-16'
+- council_reference: CDC/466/2020
+  address: 76 Babers Road, COORANBONG NSW 2265
+  description: Demolition of a Dwelling
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-16'
+- council_reference: CDC/467/2020
+  address: 46 Carroll Circuit, COORANBONG NSW 2265
+  description: Single Storey Dwelling
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-16'
+- council_reference: CDC/468/2020
+  address: 41 Colton Crescent, LAKELANDS NSW 2282
+  description: Retaining Wall & Associated Earthworks
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-16'
+- council_reference: CDC/469/2020
+  address: 4 High Street, WYEE POINT NSW 2259
+  description: Secondary Dwelling
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-17'
+- council_reference: CDC/470/2020
+  address: 1/42 Main Road, BOOLAROO NSW 2284
+  description: Hairsalon
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-17'
+- council_reference: CDC/471/2020
+  address: 2B Ocean Street, DUDLEY NSW 2290
+  description: Swimming Pool
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-17'
+- council_reference: CDC/472/2020
+  address: 7 Redbud Close, CHARLESTOWN NSW 2290
+  description: Swimming Pool and Associated Safety Barriers
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-20'
+- council_reference: CDC/473/2020
+  address: 18 Burgin Way, WARNERS BAY NSW 2282
+  description: Swimming Pool and Cabana
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-20'
+- council_reference: CDC/474/2020
+  address: 30 Pearson Street, CHARLESTOWN NSW 2290
+  description: Internal Fitout - LEGO
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-20'
+- council_reference: CDC/475/2020
+  address: 28 Helen Street, MOUNT HUTTON NSW 2290
+  description: Dwelling Alterations & Additions
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-20'
+- council_reference: CDC/476/2020
+  address: 20 Thurston Street, BOOLAROO NSW 2284
+  description: Single Storey Dwelling
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-20'
+- council_reference: CDC/477/2020
+  address: 28 Vena Street, GLENDALE NSW 2285
+  description: |-
+    In-ground firbreglass pool with surrounding pool area and fencing
+    Timber decking area
+    Fully enclosed shed with roller door.
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-20'
+- council_reference: CDC/478/2020
+  address: 89 Ocean Street, DUDLEY NSW 2290
+  description: |-
+    Alterations to Dwelling, New Retaining Walls
+    and Driveway
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-20'
+- council_reference: CDC/55/2019/A
+  address: 8 Thomas Street, BARNSLEY NSW 2278
+  description: Swimming Pool, Deck & Associated Safety Barriers - Change in Pool Size
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-22'
+- council_reference: CDC/672/2019/A
+  address: 54 Gaites Drive, CAMERON PARK NSW 2285
+  description: Two storey dwelling and retaining walls
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-15'
+- council_reference: CDC/747/2020/A
+  address: 27 Durham Drive, EDGEWORTH NSW 2285
+  description: Carport
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-25'
+- council_reference: CDC/755/2019/A
+  address: 13 Lawrence Avenue, WYEE NSW 2259
+  description: Dwelling & Additional Retaining Walls
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-10'
+- council_reference: DA/1000/2020
+  address: 22B Thomas Street, BARNSLEY NSW 2278
+  description: Dwelling house
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-10'
+- council_reference: DA/1001/2020
+  address: 1 Riesling Road, BONNELLS BAY NSW 2264
+  description: Dwelling alterations and additions
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-10'
+- council_reference: DA/1002/2020
+  address: 3 Second Street, BOOLAROO NSW 2284
+  description: Dwelling House - Alterations and Additions
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-10'
+- council_reference: DA/1003/2020
+  address: 161 Becks Road, FREEMANS WATERHOLE NSW 2323
+  description: Farm Stay Accommodation and Helipad
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-10'
+- council_reference: DA/1005/2020
+  address: 8 Milburn Circuit, BOOLAROO NSW 2284
+  description: Dwelling House
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-10'
+- council_reference: DA/1006/2020
+  address: 25 Coal Point Road, COAL POINT NSW 2283
+  description: Secondary Dwelling
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-10'
+- council_reference: DA/1007/2020
+  address: 59B Portland Drive, CAMERON PARK NSW 2285
+  description: Dwelling
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-10'
+- council_reference: DA/1008/2020
+  address: 97 Dandaraga Road, BRIGHTWATERS NSW 2264
+  description: Alterations & Additions
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-10'
+- council_reference: DA/1009/2020
+  address: 22A Thomas Street, BARNSLEY NSW 2278
+  description: Dwelling
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-10'
+- council_reference: DA/1010/2020
+  address: 24 Dromedary Street, CAMERON PARK NSW 2285
+  description: Carport and Shed
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-10'
+- council_reference: DA/1011/2020
+  address: 9 Stockton Street, MORISSET NSW 2264
+  description: 1 into 2 lot subdivision
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-10'
+- council_reference: DA/1012/2020
+  address: 18 Letchworth Parade, BALMORAL NSW 2283
+  description: Water recreation structures - Jetty, Existing works - Slipway, Reclamation/
+    Seawall
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-10'
+- council_reference: DA/1013/2020
+  address: 12 Milburn Circuit, BOOLAROO NSW 2284
+  description: Dwelling House
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-11'
+- council_reference: DA/1014/2020
+  address: 201 Dudley Road, WHITEBRIDGE NSW 2290
+  description: Demolition and Dwelling Additions
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-12'
+- council_reference: DA/1015/2020
+  address: 112 Curran's Road, COORANBONG NSW 2265
+  description: Storage Shed
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-13'
+- council_reference: DA/1016/2020
+  address: 275-277 Main Road, CARDIFF NSW 2285
+  description: Noise acoustic works under the NSW Freight Noise Attenuation Program
+    to 275-277 Main Road Cardiff
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-13'
+- council_reference: DA/1017/2020
+  address: 52 Kenibea Avenue, KAHIBAH NSW 2290
+  description: Demolition, Multi Dwelling Housing
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-13'
+- council_reference: DA/1018/2020
+  address: 3 Chippindall Street, SPEERS POINT NSW 2284
+  description: Garage
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-13'
+- council_reference: DA/1019/2020
+  address: 22 Margaret Street, TERALBA NSW 2284
+  description: Dwelling House - Alterations and Additions
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-13'
+- council_reference: DA/1020/2020
+  address: 17 Crangan Bay Drive, NORDS WHARF NSW 2281
+  description: Dwelling House
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-13'
+- council_reference: DA/1021/2020
+  address: 62 Highfields Parade, HIGHFIELDS NSW 2289
+  description: Carport & Patio Cover
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-14'
+- council_reference: DA/1022/2020
+  address: 21 Waterside Avenue, SUNSHINE NSW 2264
+  description: Dwelling House - Alterations and Additions, Garage and Boatshed
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-14'
+- council_reference: DA/1024/2020
+  address: 125 Dilkera Avenue, VALENTINE NSW 2280
+  description: Dwelling House - Alterations and Additions
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-14'
+- council_reference: DA/1025/2020
+  address: 7 Bareki Road, ELEEBANA NSW 2282
+  description: Dwelling Alterations and Additions, Swimming Pool and Associated Safety
+    Barrier
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-14'
+- council_reference: DA/1026/2020
+  address: 8 Fourth Street, CARDIFF SOUTH NSW 2285
+  description: Dwelling Alterations and Additions
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-15'
+- council_reference: DA/1027/2020
+  address: 12 The Park Chase, VALENTINE NSW 2280
+  description: Dwelling House
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-15'
+- council_reference: DA/1028/2020
+  address: 33 Pillar Street, WEST WALLSEND NSW 2286
+  description: Concrete Pool
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-15'
+- council_reference: DA/1029/2020
+  address: 25 Ashby Street, DUDLEY NSW 2290
+  description: Swimming Pool and Retaining wall
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-15'
+- council_reference: DA/1030/2020
+  address: 7 Day Street, TORONTO NSW 2283
+  description: Dwelliing alterations and additions, swimming pool and associated safety
+    barriers
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-15'
+- council_reference: DA/1032/2020
+  address: 3 Bardon Lane, BRIGHTWATERS NSW 2264
+  description: Proposed steel-framed shed
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-15'
+- council_reference: DA/1033/2020
+  address: 219 Coal Point Road, COAL POINT NSW 2283
+  description: Swimming Pool
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-15'
+- council_reference: DA/1034/2020
+  address: 38 Surfside Drive, CATHERINE HILL BAY NSW 2281
+  description: Swimming Pool, Pergola & retaining walls
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-15'
+- council_reference: DA/1035/2020
+  address: 11 Baloo Close, CHARLESTOWN NSW 2290
+  description: Swimming Pool With A Deck
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-15'
+- council_reference: DA/1036/2020
+  address: 1 Portland Drive, CAMERON PARK NSW 2285
+  description: |-
+    One into 20 residential lot subdivision with a stormwater detention basin and associated
+    servicing works.
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-15'
+- council_reference: DA/1037/2020
+  address: 56 Prospect Road, GARDEN SUBURB NSW 2289
+  description: Alterations and additions
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-16'
+- council_reference: DA/1038/2020
+  address: 1 Summerhayes Road, WYEE NSW 2259
+  description: Subdivision 1 into 2
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-16'
+- council_reference: DA/1039/2020
+  address: 5 Sealand Road, FISHING POINT NSW 2283
+  description: Deck Extension to Existing Dwelling
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-16'
+- council_reference: DA/1041/2020
+  address: 229 Wyee Road, WYEE NSW 2259
+  description: Proposed steel-framed shed
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-16'
+- council_reference: DA/1042/2020
+  address: 119 Wallsend Street, KAHIBAH NSW 2290
+  description: Demolition of a dwelling
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-16'
+- council_reference: DA/1043/2020
+  address: 27 Darlington Drive, BUTTABA NSW 2283
+  description: Retaining Wall
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-16'
+- council_reference: DA/1044/2020
+  address: 72 Milburn Circuit, BOOLAROO NSW 2284
+  description: Dwelling
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-16'
+- council_reference: DA/1045/2020
+  address: 74B Pelican Street, SWANSEA NSW 2281
+  description: Dwelling
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-16'
+- council_reference: DA/1046/2020
+  address: 3 Windross Drive, WARNERS BAY NSW 2282
+  description: Concrete Swimming Pool
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-16'
+- council_reference: DA/1047/2020
+  address: 22 Margaret Street, WARNERS BAY NSW 2282
+  description: Demolition of existing single dwelling + construction of 3 x new dwellings
+    (2 x 3-bed and 1 x 2-bed)
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-16'
+- council_reference: DA/1048/2020
+  address: 67 Surfside Drive, CATHERINE HILL BAY NSW 2281
+  description: Dwelling House
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-17'
+- council_reference: DA/1049/2020
+  address: 155B Brighton Avenue, TORONTO NSW 2283
+  description: Proposed foreshore works
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-17'
+- council_reference: DA/1050/2020
+  address: 17 George Street, BARNSLEY NSW 2278
+  description: Swimming Pool
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-17'
+- council_reference: DA/1051/2020
+  address: 206 Kilaben Road, KILABEN BAY NSW 2283
+  description: Swimming pool
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-17'
+- council_reference: DA/1052/2020
+  address: 10 Brougham Avenue, FENNELL BAY NSW 2283
+  description: Amend original plans to include Carport under Gable roof
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-17'
+- council_reference: DA/1053/2020
+  address: 44 Gimberts Road, MORISSET NSW 2264
+  description: proposed fill for a dressage arena
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-17'
+- council_reference: DA/1054/2020
+  address: 135 Pringles Road, MARTINSVILLE NSW 2265
+  description: Proposed Swimming Pool & Associated Safety Barriers
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-17'
+- council_reference: DA/1055/2020
+  address: 15 Cowell Street, DORA CREEK NSW 2264
+  description: Swimming Pool
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-17'
+- council_reference: DA/1056/2020
+  address: 90 Portland Drive, CAMERON PARK NSW 2285
+  description: Detached Patio and retaining walls
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-17'
+- council_reference: DA/1057/2020
+  address: 1 Pheasant Street, TORONTO NSW 2283
+  description: Torren Title Subdivision - 1 into 2 Lots
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-17'
+- council_reference: DA/1058/2020
+  address: 10A Rodgers Street, TERALBA NSW 2284
+  description: Dwelling and detached garage
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-17'
+- council_reference: DA/1059/2020
+  address: 1 Overhill Road, RATHMINES NSW 2283
+  description: |-
+    Signage for Rathmines Theatre and Heritage Centre
+    Previous applications CC/550/2019 and DA/1853/2018/ACC/550/2019/1DA/1853/2018/B
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-17'
+- council_reference: DA/1060/2020
+  address: 42A Bulgonia Road, BRIGHTWATERS NSW 2264
+  description: Construction of a single storey, 4 bedroom home with attached double
+    garage
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-18'
+- council_reference: DA/1061/2020
+  address: 6 Korokaa Terrace, MOUNT HUTTON NSW 2290
+  description: Pool with surrounding deck and safety fence
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-18'
+- council_reference: DA/1062/2020
+  address: 61 Railway Parade, BLACKALLS PARK NSW 2283
+  description: Alterations and Additions to a dwelling and deck and carport
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-20'
+- council_reference: DA/1063/2020
+  address: 6 Ruislip Parkway, BUTTABA NSW 2283
+  description: Shed
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-20'
+- council_reference: DA/1064/2020
+  address: 248 Charlestown Road, CHARLESTOWN NSW 2290
+  description: Extension to Existing Verandah
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-20'
+- council_reference: DA/1065/2020
+  address: 19 Comel Avenue, CAMERON PARK NSW 2285
+  description: Residential Dwelling
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-20'
+- council_reference: DA/1066/2020
+  address: 25 Garth Street, EDGEWORTH NSW 2285
+  description: Secondary and Garage
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-20'
+- council_reference: DA/1067/2020
+  address: 100 Kirkdale Drive, CHARLESTOWN NSW 2290
+  description: 2 x Retaining Walls
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-20'
+- council_reference: DA/1068/2020
+  address: 16 Barina Avenue, KILABEN BAY NSW 2283
+  description: Alterations and additions to a dwelling
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-20'
+- council_reference: DA/1069/2020
+  address: 155 Coal Point Road, COAL POINT NSW 2283
+  description: Domestic Jetty
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-20'
+- council_reference: DA/113/2020/A
+  address: 6 Ethel Street, BELMONT SOUTH NSW 2280
+  description: Dwelling House Alteration and Additions - Amended Plans
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-15'
+- council_reference: DA/1184/2015/A
+  address: 19 Hunter Street, TORONTO NSW 2283
+  description: Dwelling Addition and Alteration - Modification
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-20'
+- council_reference: DA/1188/2017/B
+  address: 20 Pacific Highway, BENNETTS GREEN NSW 2290
+  description: Service Station And Take Away Food & Drink Premises - Amendment to
+    consent
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-25'
+- council_reference: DA/1194/2016/A
+  address: 123 Kahibah Road, KAHIBAH NSW 2290
+  description: Demolition of 3 Existing Dwelling, Construction of Childcare Centre
+    and Signage - Minor modification - Section 4.55 (1a) - for minor changes with
+    minimal impact
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-13'
+- council_reference: DA/1202/2019/A
+  address: 56 Gaites Drive, CAMERON PARK NSW 2285
+  description: Dwelling - Modification
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-20'
+- council_reference: DA/1243/2019/A
+  address: 15 Prosperity Close, MORISSET NSW 2264
+  description: Crematorium (Pet)
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-23'
+- council_reference: DA/1257/2019/A
+  address: 5 Glebe Street, KAHIBAH NSW 2290
+  description: Alterations and additions to a business premises - S4.55(1A) - increase
+    size of shed
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-02'
+- council_reference: DA/1341/2017/A
+  address: 296 Skye Point Road, COAL POINT NSW 2283
+  description: Dwelling Alterations and Additions - Amendment
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-22'
+- council_reference: DA/1341/2019/A
+  address: 3 Goldsmith Avenue, FENNELL BAY NSW 2283
+  description: Dwelling House, Garage, Workshop/Shed and Attached Decks - Minor modification
+    - Section 4.55 (1a) - for minor changes with minimal impact
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-13'
+- council_reference: DA/1350/2018/A
+  address: 39 Surfside Drive, CATHERINE HILL BAY NSW 2281
+  description: Dwelling, Swimming Pool & Associated Safety Barriers - Modification
+    Under Section 4.55 1(a) - Amended Balustrade Materials
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-03'
+- council_reference: DA/1375/2005/H
+  address: 7 Sturt Road, CARDIFF NSW 2285
+  description: MIXED USE DEVELOPMENT (Comprising 88 Units, and 1837 sq. meters  Commercial
+    space) - Amendment
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-30'
+- council_reference: DA/1388/2018/A
+  address: 3 Willis Street, CHARLESTOWN NSW 2290
+  description: Lot consolidation, Demolition, Multiple Dwelling Housing, Staged development
+    (3 stages) and Strata Subdivision
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-25'
+- council_reference: DA/1443/2018/A
+  address: 3A Cams Wharf Road, CAMS WHARF NSW 2281
+  description: Alterations and Additions to Dwelling House (restoration of existing
+    cottage and new rear wing addition), detached garage, pool and associated safety
+    barriers and landscaping, front fence and associated demolition works - Modification
+    under section 4.55 1(a)
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-23'
+- council_reference: DA/1453/2019/A
+  address: 20 Merinda Close, ADAMSTOWN HEIGHTS NSW 2289
+  description: Alterations and Additions - New enclosed deck to rear of existing dwelling
+    - Modification to DA
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-02'
+- council_reference: DA/1492/2012/B
+  address: 36 Earswick Crescent, BUTTABA NSW 2283
+  description: Dwelling - Garage -  Amendment
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-09'
+- council_reference: DA/1513/2018/B
+  address: 39 Marks Parade, MARKS POINT NSW 2280
+  description: Demolition of Existing Dwelling & Construction of New Dwelling - Modification
+    to Construct a New garage in Lieu of Existing to be Retained
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-22'
+- council_reference: DA/1532/2019/B
+  address: 17 George Street, SWANSEA NSW 2281
+  description: Garage - Amendment
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-16'
+- council_reference: DA/1556/2019/A
+  address: 309 George Booth Drive, CAMERON PARK NSW 2285
+  description: Food and Drink Premises (McDonalds) and signage -  Minor modification
+    - Section 4.55 (1a) - for minor changes with minimal impact
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-13'
+- council_reference: DA/1612/2008/B
+  address: 315 George Booth Drive, CAMERON PARK NSW 2285
+  description: Hotel and a Place of Public Entertainment - Amendment
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-10'
+- council_reference: DA/1668/2019/A
+  address: 107 Fishermans Drive, TERALBA NSW 2284
+  description: Single Storey Dwelling & Retaining Wall - Amendment
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-30'
+- council_reference: DA/1691/2017/A
+  address: 14 Rockpool Road, CATHERINE HILL BAY NSW 2281
+  description: Residence and pool - Modification
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-14'
+- council_reference: DA/1717/2019/A
+  address: 52 Buttaba Road, BRIGHTWATERS NSW 2264
+  description: Alterations & Additions to Dwelling - Modification Under Section 4.55
+    1(a)
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-03'
+- council_reference: DA/1757/2019/A
+  address: 2 Quinn Street, CATHERINE HILL BAY NSW 2281
+  description: New Dwelling, Pool, and Ancillary Building - Modification1(a) - Additional
+    Window to Ground Floor Bathroom
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-24'
+- council_reference: DA/1846/2016/C
+  address: 9 Parbury Place, SWANSEA NSW 2281
+  description: Dwelling House and Detached Shed - Amended Plans
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-06'
+- council_reference: DA/1915/2018/A
+  address: 13 Milray Street, SWANSEA NSW 2281
+  description: Alterations & Additions Dwelling house - Modification under section
+    4.55 1 (a) - Amended Plans
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-26'
+- council_reference: DA/1970/2018/A
+  address: 120 Kilaben Road, KILABEN BAY NSW 2283
+  description: Dwelling House and Demolition of Existing Dwelling - Amendment
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-22'
+- council_reference: DA/2157/2017/B
+  address: 208 Kilaben Road, KILABEN BAY NSW 2283
+  description: Alterations and Additions to existing Dwelling - Swimming Pool and
+    Associated Safety Barriers - Secondary Dwelling - Amendment to Consent
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-01'
+- council_reference: DA/216/2020/A
+  address: 7 Holly Circuit, NEW LAMBTON HEIGHTS NSW 2305
+  description: Boundary Realignment | Two (2) into two (2) lot torrens title subdivision
+    - Modification under section 4.55 1(a)
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-24'
+- council_reference: DA/2173/2015/A
+  address: 606 Fishery Point Road, MORISSET NSW 2264
+  description: Service Station Alterations and Additions and Car Wash Facility - Modification
+    under 4.55(2) Facility
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-30'
+- council_reference: DA/2380/2017/B
+  address: 12 Skye Point Road, COAL POINT NSW 2283
+  description: Water Recreation Structures (Boat Shed, Slipway, Jetty) and Tree Removal
+    - Amendment
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-22'
+- council_reference: DA/2394/2017/A
+  address: 27 Chelston Street, WARNERS BAY NSW 2282
+  description: Modification - Dwelling House - Including Swimming Pool and Associated
+    Safety Barriers and temporary habitable use of shed
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-23'
+- council_reference: DA/257/2018/A
+  address: 51 Dalley Street, BONNELLS BAY NSW 2264
+  description: Demolition, Dwelling, Carport, Retaining wall and Swimming pool with
+    Associated Barriers - Amendment
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-06'
+- council_reference: DA/340/2020/A
+  address: 7 Prince Street, BARNSLEY NSW 2278
+  description: Garage, Workshop, Storage Shed and Demolition of Existing Structure
+    - Modification
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-16'
+- council_reference: DA/364/2019/B
+  address: 14 Ryhope Street, MOUNT HUTTON NSW 2290
+  description: Attached Dwelling Houses, Torrens Title Subdivision, Multiple Dwelling
+    House and Strata Subdivision - Amendment To Consent
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-14'
+- council_reference: DA/383/2020/A
+  address: 4 Hampstead Way, RATHMINES NSW 2283
+  description: Carport - Modification
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-16'
+- council_reference: DA/405/2019/A
+  address: 178 Coal Point Road, COAL POINT NSW 2283
+  description: Alterations and Additions - Minor modification - Section 4.55 (1a)
+    - for minor changes with minimal impact
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-29'
+- council_reference: DA/492/2020/A
+  address: 13 King Street, TINGIRA HEIGHTS NSW 2290
+  description: Garage - Modification Section 4.55
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-02'
+- council_reference: DA/522/2020/A
+  address: 833 Pacific Highway, BELMONT SOUTH NSW 2280
+  description: Lightweight Garage, Workshop & Storage Shed - Modification
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-20'
+- council_reference: DA/531/2020/A
+  address: 22 Courin Drive, COORANBONG NSW 2265
+  description: 1 into 2 lot Torrens Title subdivision - Modification under section
+    4.55 1
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-23'
+- council_reference: DA/582/2020/A
+  address: 23 Highland Avenue, COORANBONG NSW 2265
+  description: Dwelling - Modification
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-22'
+- council_reference: DA/635/2019/A
+  address: 11 O'Brien Street, GATESHEAD NSW 2290
+  description: Dual Occupancy and Subdivision - Section 4.55 (1)
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-15'
+- council_reference: DA/641/2019/A
+  address: 55 Babers Road, COORANBONG NSW 2265
+  description: Dwelling Alterations and Additions Modify Consent
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-01'
+- council_reference: DA/741/2015/A
+  address: 75 East Street, WARNERS BAY NSW 2282
+  description: Dwelling House & Garage - Modification Under Section 4.55 1(a) - Amended
+    Plans
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-03'
+- council_reference: DA/805/2010/B
+  address: 91 Matthews Valley Road, COORANBONG NSW 2265
+  description: DWELLING HOUSE -  Modification Under Section 4.55 1(a) -
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-03'
+- council_reference: DA/822/2019/A
+  address: 141 Warners Bay Road, WARNERS BAY NSW 2282
+  description: Retaining Walls and Pavillion Roof Structure - Modification
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-06'
+- council_reference: DA/876/2020
+  address: 28 Jamieson Street, GATESHEAD NSW 2290
+  description: Rear Patio and Carport
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-21'
+- council_reference: DA/877/2020
+  address: 1 Arundel Place, VALENTINE NSW 2280
+  description: Deck
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-21'
+- council_reference: DA/878/2020
+  address: 7 Northminster Way, RATHMINES NSW 2283
+  description: Alterations and Additions.
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-22'
+- council_reference: DA/879/2020
+  address: 153 Main Road, CARDIFF NSW 2285
+  description: Secondary Dwelling
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-22'
+- council_reference: DA/880/2020
+  address: 23 Devonshire Street, CAMERON PARK NSW 2285
+  description: Swimming Pool & Associated Safety Barriers
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-22'
+- council_reference: DA/881/2020
+  address: 14 Copper Valley Close, CAVES BEACH NSW 2281
+  description: Dwelling House
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-22'
+- council_reference: DA/882/2020
+  address: 40-42 Kalaroo Road, REDHEAD NSW 2290
+  description: Partial Change of Use to Depot
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-22'
+- council_reference: DA/883/2020
+  address: 175 Myall Road, CARDIFF NSW 2285
+  description: Club - Alterations and Additions - Awning
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-22'
+- council_reference: DA/884/2020
+  address: 111 Curran's Road, COORANBONG NSW 2265
+  description: Roadside Stall and Signage
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-22'
+- council_reference: DA/885/2020
+  address: 17 Macquarie Street, BOOLAROO NSW 2284
+  description: Swimming pool and associated safety barriers
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-23'
+- council_reference: DA/886/2020
+  address: 3 Wardle Avenue, CATHERINE HILL BAY NSW 2281
+  description: Swimming Pool and Associated Safety Barriers
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-23'
+- council_reference: DA/887/2020
+  address: 1B Third Street, BOOLAROO NSW 2284
+  description: Dwelling
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-23'
+- council_reference: DA/888/2020
+  address: 47 Gaites Drive, CAMERON PARK NSW 2285
+  description: Dwelling House
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-23'
+- council_reference: DA/889/2020
+  address: 20 Juliana Cove, CAMERON PARK NSW 2285
+  description: Swimming Pool and Associated Safety Barrier
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-23'
+- council_reference: DA/890/2020
+  address: 176 Main Road, SPEERS POINT NSW 2284
+  description: New Commercial Building
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-23'
+- council_reference: DA/891/2020
+  address: 31 Fern Street, ARCADIA VALE NSW 2283
+  description: Swimming Pool and Associated Safety Barriers
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-23'
+- council_reference: DA/892/2020
+  address: 15 Comel Avenue, CAMERON PARK NSW 2285
+  description: Residential Dwelling
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-24'
+- council_reference: DA/893/2020
+  address: 18 Pallister Court, CAMERON PARK NSW 2285
+  description: Dwelling
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-24'
+- council_reference: DA/894/2020
+  address: 38 Alexander Parade, ARCADIA VALE NSW 2283
+  description: Alterations and Additions, Swimming Pool and Associated Safety Barriers,
+    Garage and Carport
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-24'
+- council_reference: DA/895/2020
+  address: 2 Jarrod Close, CHARLESTOWN NSW 2290
+  description: Secondary Dwelling detached  and Carport
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-24'
+- council_reference: DA/896/2020
+  address: 21 James Street, CHARLESTOWN NSW 2290
+  description: Commercial Premises Addition
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-24'
+- council_reference: DA/897/2020
+  address: 37 Yoorala Road, YARRAWONGA PARK NSW 2264
+  description: Deck and Swimming Pool and Associated Barriers
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-24'
+- council_reference: DA/898/2020
+  address: 129 Fishing Point Road, FISHING POINT NSW 2283
+  description: Foreshore Development - Boat Shed, Slipway, Deck and Shared Jetty
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-24'
+- council_reference: DA/899/2020
+  address: 8 Sharon Avenue, JEWELLS NSW 2280
+  description: Dwelling alteration and addtions
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-24'
+- council_reference: DA/900/2020
+  address: 44 Pitt Street, TERALBA NSW 2284
+  description: New Dwelling
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-24'
+- council_reference: DA/901/2020
+  address: 2 Cheapside Street, RATHMINES NSW 2283
+  description: Swimming pool and Associated Safety Barriers
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-24'
+- council_reference: DA/902/2020
+  address: 12 Lakeview Parade, PELICAN NSW 2281
+  description: Demolition of existing dwelling house and construction of new dwelling
+    house
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-25'
+- council_reference: DA/903/2020
+  address: 2/43 Albert Street, BELMONT NSW 2280
+  description: Gable Awning
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-25'
+- council_reference: DA/904/2020
+  address: 2/43 Albert Street, BELMONT NSW 2280
+  description: Gable Awning
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-25'
+- council_reference: DA/905/2020
+  address: 1 Cherry Road, ELEEBANA NSW 2282
+  description: Swimming pool and Associated Safety Barriers
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-25'
+- council_reference: DA/906/2020
+  address: 4 Whitby Street, WARNERS BAY NSW 2282
+  description: Alterations and additions
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-25'
+- council_reference: DA/907/2020
+  address: 9 Rees Street, WANGI WANGI NSW 2267
+  description: New Shed and Veranda/ Deck
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-25'
+- council_reference: DA/908/2020
+  address: 3 Valiant Avenue, VALENTINE NSW 2280
+  description: Swimming pool, retaining walls and fencing
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-26'
+- council_reference: DA/909/2020
+  address: 34 Overhill Road, RATHMINES NSW 2283
+  description: Storage Shed
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-26'
+- council_reference: DA/910/2020
+  address: 11 Robey Crescent, COAL POINT NSW 2283
+  description: Inclinator
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-26'
+- council_reference: DA/911/2020
+  address: 11 Irene Crescent, COORANBONG NSW 2265
+  description: Dwelling
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-26'
+- council_reference: DA/912/2020
+  address: 7 Hillhouse Street, CHARLESTOWN NSW 2290
+  description: Dwelling alterations and additions
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-26'
+- council_reference: DA/913/2020
+  address: 43 Coronation Street, WARNERS BAY NSW 2282
+  description: Alterations and Additions
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-26'
+- council_reference: DA/914/2020
+  address: 29 Carbeen Street, GATESHEAD NSW 2290
+  description: Garage
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-26'
+- council_reference: DA/915/2020
+  address: 44 Kendella Parade, KAHIBAH NSW 2290
+  description: Dwelling alteration and addition
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-28'
+- council_reference: DA/916/2020
+  address: 165 Bay Road, BOLTON POINT NSW 2283
+  description: Awning and Carport
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-28'
+- council_reference: DA/918/2020
+  address: 46 Wilsons Road, MOUNT HUTTON NSW 2290
+  description: Food and Drink Premises - Alterations and Additions
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-29'
+- council_reference: DA/919/2020
+  address: 13 Lamb Street, BOOLAROO NSW 2284
+  description: Swimming Pool and Associated Safety Barriers
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-29'
+- council_reference: DA/920/2020
+  address: 94 Warners Bay Road, WARNERS BAY NSW 2282
+  description: Dwelling House
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-29'
+- council_reference: DA/921/2020
+  address: 8 Bridge Street, WEST WALLSEND NSW 2286
+  description: Deck & Roof Structure
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-29'
+- council_reference: DA/922/2020
+  address: 48 Lake Road, BALCOLYN NSW 2264
+  description: Shed
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-29'
+- council_reference: DA/923/2020
+  address: 5 Diamond Close, SWANSEA HEADS NSW 2281
+  description: Proposed in ground fibreglass swimming pool. Retaining wall and boundary
+    fence
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-30'
+- council_reference: DA/924/2020
+  address: 37 Bayview Street, WARNERS BAY NSW 2282
+  description: Alterations and Additions
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-30'
+- council_reference: DA/925/2020
+  address: 43 Yango Street, COORANBONG NSW 2265
+  description: Dwelling House
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-30'
+- council_reference: DA/926/2020
+  address: 255 Warners Bay Road, MOUNT HUTTON NSW 2290
+  description: Demolition - Swimming Pool
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-30'
+- council_reference: DA/927/2020
+  address: 16 Jonquil Close, TORONTO NSW 2283
+  description: Swimming Pool and Associated Fencing
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-30'
+- council_reference: DA/928/2020
+  address: 10 Brown Street, CARDIFF NSW 2285
+  description: Swimming Pool and Associated Fencing
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-30'
+- council_reference: DA/930/2020
+  address: 22 Brooks Street, ARCADIA VALE NSW 2283
+  description: Dwelling Addition
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-30'
+- council_reference: DA/931/2020
+  address: 2 Carrera Crescent, COORANBONG NSW 2265
+  description: Dwelling House
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-01'
+- council_reference: DA/932/2020
+  address: 41 Coal Point Road, COAL POINT NSW 2283
+  description: Secondary Dwelling (conversion of existing detached garage)
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-01'
+- council_reference: DA/933/2020
+  address: 6/10 John Street, WARNERS BAY NSW 2282
+  description: Dwelling House Alterations and Additions
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-01'
+- council_reference: DA/934/2020
+  address: 7/10 John Street, WARNERS BAY NSW 2282
+  description: Dwelling House Alterations and Additions
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-01'
+- council_reference: DA/935/2020
+  address: 32 Portland Drive, CAMERON PARK NSW 2285
+  description: Attached Dual Occupancy and Strata Subdivision
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-01'
+- council_reference: DA/936/2020
+  address: 167 Bridge Street, MORISSET NSW 2264
+  description: Proposed residential Torrens Subdivision of one lot into three lots
+    to be completed in two stages
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-01'
+- council_reference: DA/937/2020
+  address: 19 Rhodes Parade, WINDERMERE PARK NSW 2264
+  description: Dwellimg House Alterations and Additions
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-01'
+- council_reference: DA/938/2020
+  address: 3 Bayview Street, WARNERS BAY NSW 2282
+  description: Carport
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-01'
+- council_reference: DA/939/2020
+  address: 124 Sealand Road, FISHING POINT NSW 2283
+  description: Carport
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-01'
+- council_reference: DA/940/2020
+  address: 9 Alice Street, CARDIFF NSW 2285
+  description: Dwelling House - Alterations and Additions and Deck
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-02'
+- council_reference: DA/941/2020
+  address: 12 Finlay Close, WHITEBRIDGE NSW 2290
+  description: Deck
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-02'
+- council_reference: DA/942/2020
+  address: 25A Seaham Street, HOLMESVILLE NSW 2286
+  description: Dwelling house
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-02'
+- council_reference: DA/943/2020
+  address: 5 Kahibah Street, WHITEBRIDGE NSW 2290
+  description: Dwelling addition
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-02'
+- council_reference: DA/944/2020
+  address: 5 Park Street, SWANSEA NSW 2281
+  description: Secondary Dwelling and Garage
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-02'
+- council_reference: DA/945/2020
+  address: 24 Dromedary Street, CAMERON PARK NSW 2285
+  description: Shed
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-02'
+- council_reference: DA/946/2020
+  address: 12 Wallace Street, WEST WALLSEND NSW 2286
+  description: Garage and Carport
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-02'
+- council_reference: DA/947/2020
+  address: 153 Marks Point Road, MARKS POINT NSW 2280
+  description: Dwelling, Boat Shed, and Swimming Pools
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-02'
+- council_reference: DA/948/2020
+  address: 30 Lees Street, CHARLESTOWN NSW 2290
+  description: Covered Deck
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-02'
+- council_reference: DA/949/2020
+  address: 9 Glen Mitchell Street, BOLTON POINT NSW 2283
+  description: Alterations and Additions
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-03'
+- council_reference: DA/950/2020
+  address: 16 Rockpool Road, CATHERINE HILL BAY NSW 2281
+  description: Concrete Swimming Pool & Associated Safety Barriers
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-03'
+- council_reference: DA/951/2020
+  address: 24 Bulls Garden Road, WHITEBRIDGE NSW 2290
+  description: Strata Subdivision
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-03'
+- council_reference: DA/952/2020
+  address: 16 Boston Close, CARDIFF NSW 2285
+  description: Garage
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-03'
+- council_reference: DA/953/2020
+  address: 16 Bayview Avenue, BLACKALLS PARK NSW 2283
+  description: Secondary Dwelling, Detached Studio and Carport and Removal of Trees
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-03'
+- council_reference: DA/954/2020
+  address: 12 Lake Street, WINDALE NSW 2306
+  description: Demolition, Community Facility and Library
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-03'
+- council_reference: DA/955/2020
+  address: 7 Karangali Street, EDGEWORTH NSW 2285
+  description: Single Dwelling
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-03'
+- council_reference: DA/956/2020
+  address: 17 Ward Street, BLACKALLS PARK NSW 2283
+  description: Swimming Pool
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-03'
+- council_reference: DA/957/2020
+  address: 6 Sabrina Place, COORANBONG NSW 2265
+  description: Dwelling Alterations and Additions
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-03'
+- council_reference: DA/958/2020
+  address: 63 Pelican Street, SWANSEA NSW 2281
+  description: Dwelling House & Demolition of existing
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-04'
+- council_reference: DA/959/2020
+  address: 8 Swansea Street, SWANSEA NSW 2281
+  description: Demolition, Dwelling House
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-04'
+- council_reference: DA/960/2020
+  address: 70 Elizabeth Street, FLORAVILLE NSW 2280
+  description: Deck & Swimming Pool with associated safety barriers
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-04'
+- council_reference: DA/961/2020
+  address: 3 Jesson Parade, WARNERS BAY NSW 2282
+  description: Dwelling House and Attached Garage
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-05'
+- council_reference: DA/962/2020
+  address: 42 Bell Street, BELMONT NORTH NSW 2280
+  description: Shed
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-06'
+- council_reference: DA/963/2020
+  address: 4 Seaham Street, HOLMESVILLE NSW 2286
+  description: Swimming Pool and Associated Safety Barrier
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-06'
+- council_reference: DA/964/2020
+  address: 66A Buttaba Road, BRIGHTWATERS NSW 2264
+  description: Dwelling additions, retaining wall and swimming pool
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-06'
+- council_reference: DA/965/2020
+  address: 72 Neilson Street, EDGEWORTH NSW 2285
+  description: Single Dwelling
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-06'
+- council_reference: DA/966/2020
+  address: 2 Milburn Circuit, BOOLAROO NSW 2284
+  description: Dwelling House
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-06'
+- council_reference: DA/967/2020
+  address: 607/482 The Esplanade, WARNERS BAY NSW 2282
+  description: Internal Alterations and Additions (Unit 607)
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-06'
+- council_reference: DA/969/2020
+  address: 39 Cherry Road, ELEEBANA NSW 2282
+  description: Patio Cover
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-06'
+- council_reference: DA/970/2020
+  address: 13 Kelton Street, CARDIFF NSW 2285
+  description: Commercial Premises - Change of Use
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-06'
+- council_reference: DA/971/2020
+  address: 11 First Street, BOOLAROO NSW 2284
+  description: Swimming Pool and Associated Safety Barrier
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-07'
+- council_reference: DA/972/2020
+  address: 15 Figbird Street, COORANBONG NSW 2265
+  description: Attached Fly-Over Carport Roof
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-07'
+- council_reference: DA/973/2020
+  address: 29 Throckmorton Street, KILLINGWORTH NSW 2278
+  description: Shed
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-07'
+- council_reference: DA/974/2020
+  address: 88 Milburn Circuit, BOOLAROO NSW 2284
+  description: Dwelling
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-07'
+- council_reference: DA/975/2020
+  address: 78 Milburn Circuit, BOOLAROO NSW 2284
+  description: Dwelling House
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-07'
+- council_reference: DA/976/2020
+  address: 14 Ettalong Road, MORISSET NSW 2264
+  description: Decommissioning of the existing underground petroleum storage system
+    and installation of a new above ground fuel storage system & associated awning
+    structure
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-07'
+- council_reference: DA/977/2020
+  address: 10 Fifth Street, BOOLAROO NSW 2284
+  description: Dual Occupancy (Attached), Carport and 1 into 2 Lot Subdivision
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-07'
+- council_reference: DA/978/2020
+  address: 38 Manlius Drive, CAMERON PARK NSW 2285
+  description: Dwelling & Secondary Dwelling
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-07'
+- council_reference: DA/979/2020
+  address: 82 Sealand Road, FISHING POINT NSW 2283
+  description: Retaining Walls & Stairs
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-07'
+- council_reference: DA/980/2020
+  address: 25 Avondale Road, COORANBONG NSW 2265
+  description: Shed
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-07'
+- council_reference: DA/981/2020
+  address: 2A Harry Street, BELMONT SOUTH NSW 2280
+  description: Demolition, New Dwelling House, Carport and Spa
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-08'
+- council_reference: DA/982/2020
+  address: 23 Heggie Close, CAMERON PARK NSW 2285
+  description: Dwelling House and Retaining Walls
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-08'
+- council_reference: DA/983/2020
+  address: 2B First Street, BOOLAROO NSW 2284
+  description: Dwelling
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-08'
+- council_reference: DA/984/2020
+  address: 17 Irene Crescent, COORANBONG NSW 2265
+  description: Dwelling House
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-08'
+- council_reference: DA/985/2020
+  address: 15 Heartwood Drive, EDGEWORTH NSW 2285
+  description: Dwelling House
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-08'
+- council_reference: DA/986/2020
+  address: 41 Thompson Road, SPEERS POINT NSW 2284
+  description: Dwelling House and Retaining Walls
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-08'
+- council_reference: DA/987/2020
+  address: 13 Fourth Street, BOOLAROO NSW 2284
+  description: Secondary Dwelling - conversion of existing garage to a Granny Flat
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-08'
+- council_reference: DA/988/2020
+  address: 59 Surfside Drive, CATHERINE HILL BAY NSW 2281
+  description: Dwelling House
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-08'
+- council_reference: DA/989/2020
+  address: 76 Babers Road, COORANBONG NSW 2265
+  description: Dwelling House
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-09'
+- council_reference: DA/990/2020
+  address: 9 Hollway Street, FLORAVILLE NSW 2280
+  description: Retaining Wall
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-09'
+- council_reference: DA/991/2020
+  address: 22 Charlton Street, ELEEBANA NSW 2282
+  description: Dwelling alteration and additions and detached garage
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-09'
+- council_reference: DA/992/2020
+  address: 17 Market Street, WANGI WANGI NSW 2267
+  description: Alterations and Additions to Registered Club
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-09'
+- council_reference: DA/993/2020
+  address: 8 Government Road, BARNSLEY NSW 2278
+  description: Dwelling House
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-09'
+- council_reference: DA/994/2020
+  address: 1/21 Lake Street, WARNERS BAY NSW 2282
+  description: First Use and Commercial Fitout
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-09'
+- council_reference: DA/995/2020
+  address: 17 New Street, BELMONT SOUTH NSW 2280
+  description: Awning
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-10'
+- council_reference: DA/996/2020
+  address: 1 Moonan Close, MARTINSVILLE NSW 2265
+  description: Swimming Pool and Associated Safety Barrier
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-10'
+- council_reference: DA/997/2020
+  address: 30 Eumina Street, CAMERON PARK NSW 2285
+  description: Swimming Pool
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-10'
+- council_reference: DA/998/2020
+  address: 12 Rose Street, BLACKALLS PARK NSW 2283
+  description: Swimming Pool & Associated Safety Barriers
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-10'
+- council_reference: DA/999/2020
+  address: 618 Freemans Drive, COORANBONG NSW 2265
+  description: Swimming Pool & Associated Safety Barriers
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-10'
+- council_reference: MISC/21/2020
+  address: 27 Chapman Street, CHARLESTOWN NSW 2290
+  description: Alfresco Senior College
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-06'
+- council_reference: PD/23/2020
+  address: 43A Ruttleys Road, WYEE NSW 2259
+  description: Plumbing and Drainage
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-23'
+- council_reference: PD/24/2020
+  address: 9 Lake View Avenue, BRIGHTWATERS NSW 2264
+  description: Plumbing and Drainage
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-24'
+- council_reference: PD/25/2020
+  address: 4 Quinn Street, CATHERINE HILL BAY NSW 2281
+  description: plumbing and draining
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-03'
+- council_reference: PD/26/2020
+  address: 309 George Booth Drive, CAMERON PARK NSW 2285
+  description: New McDonalds Restaurant
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-05'
+- council_reference: PWC/20/2020
+  address: 7 Sturt Road, CARDIFF NSW 2285
+  description: Pedestrian Footpath
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-15'
+- council_reference: PWC/21/2020
+  address: 121 Kahibah Road, KAHIBAH NSW 2290
+  description: Footpaving and Street Trees - Childcare Centre
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-16'
+- council_reference: REL/2/2020
+  address: 1 Dobinson Drive, SWANSEA NSW 2281
+  description: Carport
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-01'
+- council_reference: RZ/6/2020
+  address: Lake Macquarie, LAKE MACQUARIE NSW 2284
+  description: Administrative Amendment to LMLEP 2014 - Amendment of mapping layers
+    across the LGA ie Removing Sensitive Aboriginal Landscape layers; Removing acquisition
+    layers; Aligning zones to boundaries; and Removing Urban Release Areas from subdivided/developed
+    land and environmental/recreation zones
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-17'
+- council_reference: SC/59/2020
+  address: 52 Charlton Street, BARNSLEY NSW 2278
+  description: 1 Into 2 Lot Subdivision
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-24'
+- council_reference: SC/60/2020
+  address: 26 Santa Fe Close, CAMERON PARK NSW 2285
+  description: 1 into 2 lot Subdivision
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-06'
+- council_reference: SC/61/2020
+  address: 24 Santa Fe Close, CAMERON PARK NSW 2285
+  description: 1 into 2 lot subdivision
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-06'
+- council_reference: SC/62/2020
+  address: 31 Ridley Street, EDGEWORTH NSW 2285
+  description: 1 into 2 lot subdivision
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-08'
+- council_reference: SC/63/2020
+  address: 309 George Booth Drive, CAMERON PARK NSW 2285
+  description: DA/1178/2017 – STAGE 2 CAMERON PARK VILLAGE (2 LOTS)
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-08'
+- council_reference: SC/64/2020
+  address: 9 Stockton Street, MORISSET NSW 2264
+  description: 1 into 3 Lot Subdivision
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-09'
+- council_reference: SC/65/2020
+  address: 24 Pegasus Road, CAMERON PARK NSW 2285
+  description: 1 into 2 Lot Subdivision
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-13'
+- council_reference: SC/66/2020
+  address: 186 Awaba Street, MORISSET NSW 2264
+  description: 1 into 2 lot subdivision
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-14'
+- council_reference: SC/67/2020
+  address: 84 Brown Street, WEST WALLSEND NSW 2286
+  description: 1 into 2 Lot Subdivision
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-14'
+- council_reference: SC/68/2020
+  address: 309 George Booth Drive, CAMERON PARK NSW 2285
+  description: 1 INTO 2 LOT TORRENS TITLE SUBDIVISION
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-16'
+- council_reference: STC/31/2020
+  address: 17 Turrug Street, WHITEBRIDGE NSW 2290
+  description: Three Lot Strata Subdivision of a Multi-Dwelling Housing Development
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-22'
+- council_reference: STC/32/2020
+  address: 1A Turnbull Street, FENNELL BAY NSW 2283
+  description: Strata Certificate 1 into 2 Lots
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-03'
+- council_reference: STC/33/2020
+  address: 8 Gaites Drive, CAMERON PARK NSW 2285
+  description: Strata Certificate
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-13'
+- council_reference: SWC/15/2020/A
+  address: 59 Advantage Avenue, MORISSET NSW 2264
+  description: Industrial Subdivision - Stages 5c (4 Lots) and stage 6 (11 lots) plus
+    regrading
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-24'
+- council_reference: SWC/33/2020
+  address: 1A Raymond Street, SPEERS POINT NSW 2284
+  description: Stage 1 and/or 2 subdivision works
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-08'
+- council_reference: SWC/34/2020
+  address: 97 Alton Road, COORANBONG NSW 2265
+  description: Proposed roads and drainage works to facilitate residential subdivision
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-13'
+- council_reference: TA/100/2020
+  address: 45 Pacific Street, CAVES BEACH NSW 2281
+  description: Remove One (1)  Tree
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-06'
+- council_reference: TA/101/2020
+  address: 18 Pillapai Road, BRIGHTWATERS NSW 2264
+  description: Remove 1 tree
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-07'
+- council_reference: TA/102/2020
+  address: 19 Comel Avenue, CAMERON PARK NSW 2285
+  description: Remove Five (5 ) Trees
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-08'
+- council_reference: TA/103/2020
+  address: 175 Bayview Street, WARNERS BAY NSW 2282
+  description: Remove 2 Trees
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-10'
+- council_reference: TA/104/2020
+  address: 17 George Street, HIGHFIELDS NSW 2289
+  description: Removal of Seventeen  (17) Trees
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-10'
+- council_reference: TA/105/2020
+  address: 2 Caves Beach Road, CAVES BEACH NSW 2281
+  description: Remove one (1) Tree
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-13'
+- council_reference: TA/106/2020
+  address: 55 Coal Point Road, COAL POINT NSW 2283
+  description: Remove One (1) tree
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-15'
+- council_reference: TA/107/2020
+  address: 23 Apple Gum Way, MURRAYS BEACH NSW 2281
+  description: Remove Two (2) Tree and Prune One (1) Tree
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-15'
+- council_reference: TA/108/2020
+  address: 3 Luton Close, CARDIFF HEIGHTS NSW 2285
+  description: Remove One (1) Tree
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-15'
+- council_reference: TA/109/2020
+  address: 41 Stingaree Point Drive, DORA CREEK NSW 2264
+  description: Remove 1 tree
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-16'
+- council_reference: TA/110/2020
+  address: 23 Walkern Road, NEW LAMBTON HEIGHTS NSW 2305
+  description: Removal of 1 eucalyptus tree - on fence line
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-17'
+- council_reference: TA/111/2020
+  address: 9 Harlo Street, BELMONT NORTH NSW 2280
+  description: Remove 6 angopha costata trees
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-19'
+- council_reference: TA/94/2020
+  address: 658 Pacific Highway, BELMONT NSW 2280
+  description: Removal of 1 Gum Tree
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-22'
+- council_reference: TA/95/2020
+  address: 23 Hibiscus Close, SPEERS POINT NSW 2284
+  description: Remove Four (4) Trees
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-22'
+- council_reference: TA/96/2020
+  address: 3 Rosewood Close, GARDEN SUBURB NSW 2289
+  description: Remove one large tree
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-06-25'
+- council_reference: TA/97/2020
+  address: 3 Bayview Street, WARNERS BAY NSW 2282
+  description: Remove 5 Trees
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-02'
+- council_reference: TA/98/2020
+  address: 9 Stenhouse Drive, ELEEBANA NSW 2282
+  description: Removal of 2 Trees
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-03'
+- council_reference: TA/99/2020
+  address: 3 Parkside Parade, TORONTO NSW 2283
+  description: Remove one tree
+  info_url: https://property.lakemac.com.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-03'

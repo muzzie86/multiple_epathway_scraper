@@ -1,0 +1,13 @@
+---
+- council_reference: D/52-2019
+  address: 777 Yaamba Road, Parkhurst QLD 4702
+  description: "(two lots into eight lots)"
+  info_url: https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-01'
+- council_reference: D/53-2019
+  address: 62 Geoff Wilson Drive, Norman Gardens QLD 4701
+  description: "(three lots into six lots)"
+  info_url: https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-05'

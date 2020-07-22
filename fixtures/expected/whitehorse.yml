@@ -1,0 +1,884 @@
+---
+- council_reference: WH/2004/15049/F
+  address: 259 Middleborough Road, BOX HILL SOUTH VIC 3128
+  description: Amendment to permit conditions
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-15'
+- council_reference: WH/2006/200/B
+  address: 95 Highbury Road, BURWOOD VIC 3125
+  description: Amendment to plans to alter car parking layout, relocation of air-conditioning
+    unit and skylight, partial deletion of east and west side boundary walls, deletion
+    of Conditions 1 b) and c) and amendment to Condition 1 d)
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-27'
+- council_reference: WH/2014/1145/A
+  address: 60 Relowe Crescent, MONT ALBERT NORTH VIC 3129
+  description: The development of the land for the construction of four double storey
+    dwellings
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-26'
+- council_reference: WH/2014/1235/C
+  address: 800 Station Street, BOX HILL NORTH VIC 3129
+  description: Development and use of a Child Care Centre, buildings and works in
+    a Heritage Overlay and reduction in car parking requirements
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-08'
+- council_reference: WH/2014/567/B
+  address: 88 Dorking Road, BOX HILL NORTH VIC 3129
+  description: Buildings and works within 4m of a potected tree in SLO9
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-16'
+- council_reference: WH/2015/1155/B
+  address: 11 Trafalgar Street, MONT ALBERT VIC 3127
+  description: S72 Amendment to endorsed plans with planning permit number WH/2015/1155
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-25'
+- council_reference: WH/2016/224/B
+  address: 24 Marlborough Street, MONT ALBERT VIC 3127
+  description: Construction of one double storey dwelling and extensions to an existing
+    dwelling
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-15'
+- council_reference: WH/2016/387/A
+  address: 11 Johnston Street, BURWOOD VIC 3125
+  description: Construction of three double storey dwellings and front fence
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-02'
+- council_reference: WH/2016/456/L
+  address: 40/31-37 Norcal Road, NUNAWADING VIC 3131
+  description: Buildings and works for a warehouse development, use of the land for
+    a food and drink premises and offices, intenally illuminated signage, reduction
+    in the standard car parking requirement and native vegetation removal
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-27'
+- council_reference: WH/2016/456/M
+  address: 9/31-37 Norcal Road, NUNAWADING VIC 3131
+  description: Buildings and works for a warehouse development, use of the land for
+    a food and drink premises and offices, intenally illuminated signage, reduction
+    in the standard car parking requirement and native vegetation removal
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-08'
+- council_reference: WH/2017/334/A
+  address: 396 Elgar Road, BOX HILL VIC 3128
+  description: AMENDMENT TO PLANNING PERMIT WH/2017/334 (ISSUED FOR THE CONSTRUCTION
+    OF TEN 3-4 STOREY DWELLINGS ABOVE BASEMENT AND ALTERATION OF ACCESS TO A ROAD
+    IN A ROAD ZONE, CATEGORY 1) PROPOSING ALTERATIONS AND ADDITIONS TO DWELLINGS INCLUDING
+    INCREASED BASEMENT AND GROUND FLOOR LEVELS AND BALCONY SCREENING
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-04'
+- council_reference: WH/2017/425/A
+  address: 9 Taylor Avenue, BURWOOD EAST VIC 3151
+  description: Construction of two double storey dwellings
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-05'
+- council_reference: WH/2017/505/A
+  address: 47 Stanley Grove, BLACKBURN VIC 3130
+  description: Construction of three (3) double storey dwellings and tree removal
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-01'
+- council_reference: WH/2017/542/A
+  address: 582-584 Elgar Road, BOX HILL NORTH VIC 3129
+  description: Use and development for a child care centre and alteration of access
+    to a Road Zone
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-01'
+- council_reference: WH/2017/685/A
+  address: 1/77 Holland Road, BLACKBURN SOUTH VIC 3130
+  description: Two (2) lot subdivision of vacant land
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-15'
+- council_reference: WH/2017/864/A
+  address: 99 Carrington Road, BOX HILL VIC 3128
+  description: Construction of eighteen 3-4 storey dwellings and front fence, subdivision
+    into 2 lots, partial demolition and  building and works, removal of trees and
+    reduction in car parking
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-17'
+- council_reference: WH/2018/100/A
+  address: 274-278 Whitehorse Road, NUNAWADING VIC 3131
+  description: Buildings and works associated with additions to the redevelopment
+    of the existing restricted retail premises, use of the land as a food and drink
+    premises, a reduction in carparking requirements, alterations to access to a road
+    zone Category 1 and display of business identification signage
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-25'
+- council_reference: WH/2018/255/A
+  address: 2 Elmhurst Road, BLACKBURN VIC 3130
+  description: The construction of two double storey dwellings, buildings and works
+    within 4 metres of vegetation and vegetation removal.
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-15'
+- council_reference: WH/2018/622/A
+  address: 545-563 Station Street, BOX HILL VIC 3128
+  description: Concurrent Planning Permit and Certification Application to subdivide
+    the building currently under construction in accordance with the attached Plan
+    of Subdivision PS 746096X Stage 1
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-16'
+- council_reference: WH/2018/66/A
+  address: 38 Gillard Street, BURWOOD VIC 3125
+  description: Amendment of plans for planning permit WH/2018/1244 issued for the
+    Construction of two double storey dwellings within a Special Building Overlay,
+    to include construction of a front fence and internal alterations
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-10'
+- council_reference: WH/2019/435/A
+  address: 36 Haines Street, MITCHAM VIC 3132
+  description: Buildings and works in HO45 and within 4m of protected tree
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-02'
+- council_reference: WH/2019/600
+  address: 6 Alwyn Court, MITCHAM VIC 3132
+  description: Removal of one (1) Melaleuca styphelioides (Prickly Paperbark) tree.
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-23'
+- council_reference: WH/2019/601
+  address: 48 Blackburn Road, BLACKBURN VIC 3130
+  description: Removal of two (2) trees
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-24'
+- council_reference: WH/2019/602
+  address: 38 Boondara Road, MONT ALBERT NORTH VIC 3129
+  description: Removal of four (4) trees
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-24'
+- council_reference: WH/2019/603
+  address: 150 Central Road, NUNAWADING VIC 3131
+  description: Two lot subdivision
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-24'
+- council_reference: WH/2019/605
+  address: 16 Holland Road, BLACKBURN SOUTH VIC 3130
+  description: Buildings and works within 4m of a protected tree (widen crossover)
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-24'
+- council_reference: WH/2019/606
+  address: 4 Hillside Parade, BOX HILL NORTH VIC 3129
+  description: Two lot subdivisions
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-24'
+- council_reference: WH/2019/608
+  address: 24 Dalmor Avenue, MITCHAM VIC 3132
+  description: Removal of one (1) tree
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-25'
+- council_reference: WH/2019/609
+  address: 24 Dalmor Avenue, MITCHAM VIC 3132
+  description: Removal of one (1) tree
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-25'
+- council_reference: WH/2019/611
+  address: 24 Dalmor Avenue, MITCHAM VIC 3132
+  description: Removal of one (1) tree
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-25'
+- council_reference: WH/2019/613
+  address: 2 Newbigin Street, BURWOOD VIC 3125
+  description: Four lot subdivision
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-25'
+- council_reference: WH/2019/614
+  address: 23 Ireland Street, BURWOOD VIC 3125
+  description: Removal of a tree
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-25'
+- council_reference: WH/2019/615
+  address: 33 Landale Street, BOX HILL VIC 3128
+  description: Buildings and works to construct a front gate
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-25'
+- council_reference: WH/2019/616
+  address: 2/19 Hutchinson Street, BURWOOD EAST VIC 3151
+  description: Alteration of an existing building facade
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-25'
+- council_reference: WH/2019/617
+  address: 2 Grigg Avenue, VERMONT VIC 3133
+  description: Two lot subdivision
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-26'
+- council_reference: WH/2019/618
+  address: 61 Boronia Road, VERMONT VIC 3133
+  description: Development of Three (3) Double Storey Dwellings on a Lot and Removal
+    of Vegetation
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-26'
+- council_reference: WH/2019/620
+  address: 396 Mont Albert Road, MONT ALBERT VIC 3127
+  description: Construction of a new Carport, Storage shed, Driveway and Vehicle crossover
+    on land within  Significant Landscape overlay SL 09
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-26'
+- council_reference: WH/2019/621
+  address: 9 Rotherwood Avenue, MITCHAM VIC 3132
+  description: Two lot subdivision
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-26'
+- council_reference: WH/2019/622
+  address: 4 Gidgee Court, FOREST HILL VIC 3131
+  description: Removal of one (1) Eucalyptus camaldulensis River Red Gum  tree.
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-24'
+- council_reference: WH/2019/623
+  address: 20 Orchard Grove, BLACKBURN SOUTH VIC 3130
+  description: development, Removal of one tree
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-26'
+- council_reference: WH/2019/624
+  address: 20 Orchard Grove, BLACKBURN SOUTH VIC 3130
+  description: Removal of one tree
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-26'
+- council_reference: WH/2019/625
+  address: 20 Broughton Road, SURREY HILLS VIC 3127
+  description: Two lot subdivision
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-27'
+- council_reference: WH/2019/626
+  address: 16 Rishon Avenue, BLACKBURN SOUTH VIC 3130
+  description: Removal of one (1) SLO9 tree
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-25'
+- council_reference: WH/2019/627
+  address: 3 Melaleuca Way, BOX HILL SOUTH VIC 3128
+  description: Tree Removal
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-25'
+- council_reference: WH/2019/628
+  address: 221 Highbury Road, BURWOOD VIC 3125
+  description: Six lot subdivision
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-27'
+- council_reference: WH/2019/629
+  address: 9-17 Broughton Road, SURREY HILLS VIC 3127
+  description: Buildings and works in relation to kitchen upgrade at Broughtonlea
+    Residential Aged Care facility.
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-27'
+- council_reference: WH/2019/630
+  address: 41 Glen Ebor Avenue, BLACKBURN VIC 3130
+  description: The design and construction of a ground floor extension and alteration
+    to an existing double storey dwelling
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-27'
+- council_reference: WH/2019/631
+  address: 1/32 Wellington Avenue, BLACKBURN VIC 3130
+  description: Buildings and works for a front fence within 4 metres of protected
+    trees in the SLO2
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-25'
+- council_reference: WH/2019/632
+  address: 12 Tennyson Street, BURWOOD VIC 3125
+  description: Proposed Two (2) Double Storey Dwellings (Class 1b) & Removal of vegetation
+    as per plan
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-28'
+- council_reference: WH/2019/633
+  address: 24 Cornfield Grove, BOX HILL SOUTH VIC 3128
+  description: Buildings and works and removal of vegetation within SLO9
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-26'
+- council_reference: WH/2019/634
+  address: 45 Great Western Drive, VERMONT SOUTH VIC 3133
+  description: Two lot subdivision
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-28'
+- council_reference: WH/2019/635
+  address: 17 Gay Street, BLACKBURN NORTH VIC 3130
+  description: "SLO9 - \tProposed building works located within 4m of an Existing
+    Significant Tree to be Retained and;\n\nGRZ - \tConstruct an out-building on a
+    lot where the gross floor area of the out-building exceeds 10 square metres and
+    the maximum building height is more than 3 metres above ground level.\n"
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-28'
+- council_reference: WH/2019/636
+  address: 17 Lynette Street, NUNAWADING VIC 3131
+  description: Buildings and works and within 4 metres of protected vegetation
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-26'
+- council_reference: WH/2019/637
+  address: 39 Gillard Street, BURWOOD VIC 3125
+  description: Development of the site for 3 dwellings
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-28'
+- council_reference: WH/2019/638
+  address: 33 Landale Street, BOX HILL VIC 3128
+  description: "**DUPLICATE***Seek planning approval for a 1800 High timber clad double
+    gate to close driveway for security & to keep family pet inside the property.
+    \nThis application is triggered by it being within the Heritage Overaly"
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-25'
+- council_reference: WH/2019/639
+  address: 115-117 Burwood Highway, BURWOOD EAST VIC 3151
+  description: Twenty Nine lot subdivision
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-28'
+- council_reference: WH/2019/640
+  address: 92A Railway Road, BLACKBURN VIC 3130
+  description: Construct and Carry Out Works (DDO8)
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-29'
+- council_reference: WH/2019/641
+  address: 11 George Street, BLACKBURN VIC 3130
+  description: Extension of Existing Factory with extension walls constructed to title
+    boundaries.
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-29'
+- council_reference: WH/2019/642
+  address: 41 Quarry Road, MITCHAM VIC 3132
+  description: Two lot subdivision
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-01'
+- council_reference: WH/2019/643
+  address: 3/80 Medway Street, BOX HILL NORTH VIC 3129
+  description: For construction of or extension to a dwelling on a lot with an area
+    less than 300 square metres,
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-01'
+- council_reference: WH/2019/644
+  address: Cntre Mang 17-21 Market Street, BOX HILL VIC 3128
+  description: Use of the land for the sale and consumption of liquor
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-01'
+- council_reference: WH/2019/645
+  address: 4 Selwyn Street, BLACKBURN VIC 3130
+  description: Removal of one (1) Eucalyptus mannifera – Red Spotted Gum tree.
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-01'
+- council_reference: WH/2019/646
+  address: 31 Denis Street, MITCHAM VIC 3132
+  description: Two lot subdivision
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-08'
+- council_reference: WH/2019/647
+  address: 37 Greenwood Street, BURWOOD VIC 3125
+  description: PROPOSAL OF THREE DOUBLE STOREY DWELLINGS AND REMOVAL OF TREE UNDER
+    SLO9 OVERLAY
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-02'
+- council_reference: WH/2019/648
+  address: 5 Eugenia Street, NUNAWADING VIC 3131
+  description: Removal of one (1) SLO9 tree
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-02'
+- council_reference: WH/2019/649
+  address: 15 Adele Street, VERMONT VIC 3133
+  description: Residential development two dwellings on a lot tree removal within
+    a significant landscape overlay
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-28'
+- council_reference: WH/2019/650
+  address: 5 Caroline Street, BOX HILL NORTH VIC 3129
+  description: Propose to develop an addition double-storey dwelling at rear of the
+    existing building, and construct a double garage to the existing dwelling
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-03'
+- council_reference: WH/2019/651
+  address: 5 Canora Street, BLACKBURN SOUTH VIC 3130
+  description: "We request the removal of (as indicated by the attached documents)
+    3 trees at our property: \n5 Canora St, Blackburn South. As well as (in the near
+    future) erecting a front metal property fence.\n\nThe trees in question (as indicated
+    as Tree 2, Tree 9 & Tree 15 on the Arborist report) will be replaced with two
+    indigenous Narrow-leaved Peppermint on property.\n"
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-03'
+- council_reference: WH/2019/652
+  address: 1/2 Coonawarra Drive, VERMONT SOUTH VIC 3133
+  description: Construction of a Front Fence
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-03'
+- council_reference: WH/2019/653
+  address: 68 Vanbrook Street, FOREST HILL VIC 3131
+  description: Two lot subdivision
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-04'
+- council_reference: WH/2019/654
+  address: 1/18 Molleton Street, BLACKBURN VIC 3130
+  description: Construction of Patio Roof
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-04'
+- council_reference: WH/2019/655
+  address: 3 Barbara Street, MONT ALBERT NORTH VIC 3129
+  description: Tree removal
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-04'
+- council_reference: WH/2019/656
+  address: 710 Whitehorse Road, MITCHAM VIC 3132
+  description: Two lot subdivision
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-04'
+- council_reference: WH/2019/657
+  address: 385 Springfield Road, NUNAWADING VIC 3131
+  description: Two lot subdivision
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-04'
+- council_reference: WH/2019/658
+  address: 88 Creek Road, MITCHAM VIC 3132
+  description: Proposed 2 Multi Dwelling Development
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-05'
+- council_reference: WH/2019/659
+  address: 16 Joyce Street, NUNAWADING VIC 3131
+  description: Removal of one (1) Cupressus sempervirens – Italian Cypress tree.
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-05'
+- council_reference: WH/2019/660
+  address: 18 Duband Street, BURWOOD EAST VIC 3151
+  description: 2 TOWNHOUSE DEVELOPMENT
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-05'
+- council_reference: WH/2019/661
+  address: 25 Sherwood Rise, VERMONT SOUTH VIC 3133
+  description: Construction of front fence in an overlay
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-08'
+- council_reference: WH/2019/662
+  address: 23 Box Hill Crescent, MONT ALBERT NORTH VIC 3129
+  description: SLO9 tree removal
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-08'
+- council_reference: WH/2019/663
+  address: 7A/11 Clarice Road, BOX HILL SOUTH VIC 3128
+  description: To use of this site as a Dancing School and Restricted Recreation Facility
+    (Yoga Studio)
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-09'
+- council_reference: WH/2019/664
+  address: 46 Lucknow Street, MITCHAM VIC 3132
+  description: Construction of front fence within 4 metres of protected trees in the
+    SLO9 and VPO4
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-08'
+- council_reference: WH/2019/665
+  address: 19 Delatite Court, VERMONT VIC 3133
+  description: Removal of one (1) SLO9 tree
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-09'
+- council_reference: WH/2019/666
+  address: 19 Delatite Court, VERMONT VIC 3133
+  description: Removal of one (1) SLO9 tree
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-09'
+- council_reference: WH/2019/667
+  address: 4 Kerrimuir Street, BOX HILL NORTH VIC 3129
+  description: Construction of new front fence within 4 metres of a protected tree
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-01'
+- council_reference: WH/2019/668
+  address: 358 Mitcham Road, MITCHAM VIC 3132
+  description: Removal of one (1) Fraxinus angustifolia – Desert Ash tree.
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-01'
+- council_reference: WH/2019/669
+  address: 2-4 Bruce Street, BOX HILL VIC 3128
+  description: Signage
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-28'
+- council_reference: WH/2019/670
+  address: 850 Canterbury Road, BOX HILL SOUTH VIC 3128
+  description: Removal of 15 protected trees and buildings and works within 4 metres
+    of protected trees in the Significant Landscape Overlay Schedule 9
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-28'
+- council_reference: WH/2019/671
+  address: 8-12 Simla Street, MITCHAM VIC 3132
+  description: Buildings and works for relocation of bunker and container and extension
+    of decking/verandah/canopy to existing place of assemly
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-01'
+- council_reference: WH/2019/672
+  address: 5 Haslemere Road, MITCHAM VIC 3132
+  description: Removal of one protected tree in the VPO3 and SLO9
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-02'
+- council_reference: WH/2019/673
+  address: 3A Forster Street, MITCHAM VIC 3132
+  description: Four lot Subdivision
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-10'
+- council_reference: WH/2019/674
+  address: 10/88-90 Main Street, BLACKBURN VIC 3130
+  description: Buildings and works within 4 metres of protected trees in the Significant
+    Landscape Overlay Schedule 9 and extension to dwelling on a lot less than 500m2
+    in the Neighbourhood Residential Zone Schedule 3
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-04'
+- council_reference: WH/2019/675
+  address: 9 Goodwin Street, BLACKBURN VIC 3130
+  description: removal of one tree
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-10'
+- council_reference: WH/2019/676
+  address: 9 Goodwin Street, BLACKBURN VIC 3130
+  description: removal of one tree (2nd of two applications made today - applying
+    for 2 trees to be removed)
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-10'
+- council_reference: WH/2019/677
+  address: 7 Gee Court, NUNAWADING VIC 3131
+  description: Two lot subdivision
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-10'
+- council_reference: WH/2019/678
+  address: 8 Karen Street, BOX HILL NORTH VIC 3129
+  description: Two lot subdivision
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-10'
+- council_reference: WH/2019/679
+  address: 1/23 Lithgow Avenue, BLACKBURN VIC 3130
+  description: For alteration and extension of a dwelling on a lot less than 300 sqaure
+    metres in a Residential Growth Zone.
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-10'
+- council_reference: WH/2019/680
+  address: 10 Inverness Avenue, BURWOOD VIC 3125
+  description: Student Accommodation
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-10'
+- council_reference: WH/2019/681
+  address: 78 Middleborough Road, BURWOOD EAST VIC 3151
+  description: Removal of easement
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-03'
+- council_reference: WH/2019/682
+  address: 46 Myrtle Grove, BLACKBURN VIC 3130
+  description: Removal of one protected tree in the Significant Landscape Overlay
+    Schedule 9
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-08'
+- council_reference: WH/2019/683
+  address: 26 Boxleigh Grove, BOX HILL NORTH VIC 3129
+  description: Tree Removal
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-11'
+- council_reference: WH/2019/684
+  address: 23 Hibiscus Road, BLACKBURN NORTH VIC 3130
+  description: Removal of one tree
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-11'
+- council_reference: WH/2019/685
+  address: 40 Strabane Avenue, MONT ALBERT NORTH VIC 3129
+  description: The development of 3 double storey dwellings and the construction of
+    a front fence and buildings and works within 4m of trees protected by SLO9
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-12'
+- council_reference: WH/2019/686
+  address: 76A Foch Street, BOX HILL SOUTH VIC 3128
+  description: Removal of one protected tree
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-10'
+- council_reference: WH/2019/687
+  address: 14 Salvana Avenue, MITCHAM VIC 3132
+  description: Removal of one (1) tree
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-10'
+- council_reference: WH/2019/688
+  address: 103 Central Road, BLACKBURN VIC 3130
+  description: Removal of one (1) SLO9 tree
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-12'
+- council_reference: WH/2019/689
+  address: 6 Ryan Grove, BLACKBURN SOUTH VIC 3130
+  description: Construction of new double storey dwelling to the rear of the existing
+    dwelling
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-11'
+- council_reference: WH/2019/690
+  address: 811 Whitehorse Road, MONT ALBERT VIC 3127
+  description: To construct a building in the commercial 1 zone (clause 34.01-4) to
+    use the land for accommodation given the ground level frontage exceeds 2 metres
+    in width (clause 34.01-1) to reduce the number of car parking spaces (clause 52.06-3)
+    to alter access to a road zone category 1 (clause 52.29-2)
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-05'
+- council_reference: WH/2019/691
+  address: 87 Benwerrin Drive, BURWOOD EAST VIC 3151
+  description: Two lot subdivision
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-12'
+- council_reference: WH/2019/692
+  address: 43 Court Street, BOX HILL VIC 3128
+  description: To remove two trees and undertake works within 4 metres of a neighbouring
+    tree affected by the
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-16'
+- council_reference: WH/2019/693
+  address: 48-50 O'Shannessy Street, NUNAWADING VIC 3131
+  description: Two lot subdivision
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-16'
+- council_reference: WH/2019/694
+  address: 48-50 O'Shannessy Street, NUNAWADING VIC 3131
+  description: Use and development for a community care accommodation facility for
+    residents with disabilities
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-10'
+- council_reference: WH/2019/695
+  address: 91 Eley Road, BOX HILL SOUTH VIC 3128
+  description: Three lot subdivision
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-16'
+- council_reference: WH/2019/696
+  address: 170 Station Street, BOX HILL SOUTH VIC 3128
+  description: Removal of one protected tree in the Significant Landscape Overlay
+    Schedule 9
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-12'
+- council_reference: WH/2019/697
+  address: 31 Wridgway Avenue, BURWOOD VIC 3125
+  description: CONSTRUCTION OF 3NO. DOUBLE-STOREY DWELLINGS.
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-16'
+- council_reference: WH/2019/698
+  address: 11 Lexton Road, BOX HILL NORTH VIC 3129
+  description: Five lot subdivision
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-16'
+- council_reference: WH/2019/699
+  address: 170 Station Street, BOX HILL SOUTH VIC 3128
+  description: Removal of one (Acacia) protected tree in the Significant Landscape
+    Overlay Schedule 9
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-15'
+- council_reference: WH/2019/700
+  address: 6 Murra Street, BURWOOD VIC 3125
+  description: Removal of one protected tree in the Significant Landscape Overlay
+    Schedule 9
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-11'
+- council_reference: WH/2019/701
+  address: 253 Springvale Road, NUNAWADING VIC 3131
+  description: Three lot subdivision
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-17'
+- council_reference: WH/2019/702
+  address: 5 Forest Glen Avenue, BLACKBURN SOUTH VIC 3130
+  description: Removal of one protected tree in the Significant Landscape Overlay
+    Schedule 9
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-12'
+- council_reference: WH/2019/703
+  address: 47 Shepherd Street, SURREY HILLS VIC 3127
+  description: Removal of one tree
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-17'
+- council_reference: WH/2019/704
+  address: 440 Belmore Road, MONT ALBERT NORTH VIC 3129
+  description: Removal of one tree
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-17'
+- council_reference: WH/2019/705
+  address: 440 Belmore Road, MONT ALBERT NORTH VIC 3129
+  description: Removal of one tree
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-17'
+- council_reference: WH/2019/706
+  address: 4/10 Kangerong Road, BOX HILL VIC 3128
+  description: Extension of existing dwelling on lot less than 500m2
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-18'
+- council_reference: WH/2019/707
+  address: 50 McIntyre Street, BURWOOD VIC 3125
+  description: Construction of two double storey dwellings
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-16'
+- council_reference: WH/2019/708
+  address: 25 Kerr Street, BLACKBURN VIC 3130
+  description: Three lot subdivision
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-18'
+- council_reference: WH/2019/709
+  address: 248 Middleborough Road, BLACKBURN SOUTH VIC 3130
+  description: Construction of three double storey dwellings and alteration of access
+    to a road in a road zone Category 1
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-09'
+- council_reference: WH/2019/710
+  address: 27 Pakenham Street, BLACKBURN VIC 3130
+  description: Construction of crossover within 4 metres of a protected street tree
+    in the Significant Landscape Overlay Schedule 9
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-16'
+- council_reference: WH/2019/711
+  address: Cntre Mang 17-21 Market Street, BOX HILL VIC 3128
+  description: "-\tDemolishing the existing shopfront and installing new shopfront
+    with door\n-\tNew non-illuminated signage on the shopfront\n-\tNew street awning
+    over the shopfront"
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-19'
+- council_reference: WH/2019/712
+  address: G05/ 1 Charlnet Drive, VERMONT SOUTH VIC 3133
+  description: four lot re- subdivision
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-18'
+- council_reference: WH/2019/713
+  address: 3 Aldinga Street, BLACKBURN SOUTH VIC 3130
+  description: Removal of four protected trees in the Significant Landscape Overlay
+    Schedule 9
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-17'
+- council_reference: WH/2019/714
+  address: 33 Creek Road, MITCHAM VIC 3132
+  description: Construction of one new dwelling at the rear of the existing dwelling
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-17'
+- council_reference: WH/2019/715
+  address: 922 Whitehorse Road, BOX HILL VIC 3128
+  description: shop renovation
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-19'
+- council_reference: WH/9999/41
+  address: 14 Nara Road, MITCHAM VIC 3132
+  description: 'change 3 windows in powder room, living and rumpus
+
+'
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-15'
+- council_reference: WH/9999/42
+  address: 83 Pakenham Street, BLACKBURN VIC 3130
+  description: |-
+    Application No. WH/2014/265
+    Retain existing dwelling in lieu of building an additional dwelling
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-17'
+- council_reference: WH/9999/43
+  address: 2A Laughlin Avenue, NUNAWADING VIC 3131
+  description: Revision of the colour of the roofing and rainwater goods from Colourbond
+    Classisms Cream to Colourbond Woodland Grey
+  info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-17'

@@ -1,0 +1,549 @@
+---
+- council_reference: M/1977/702/C
+  address: 1/19-21 Karingal Street, Croydon North VIC 3136
+  description: Extension to the rear of Dwelling 1 and construction of new carport
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-31'
+- council_reference: M/1999/1265/A
+  address: Factory 4/1-3 Eastspur Court, Kilsyth South VIC 3137
+  description: Section 72 Amendment to plans comprising retrospective alterations
+    and additions to construct a mezzanine floor area within Factory 4 and associated
+    car parking reduction.
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-03-13'
+- council_reference: M/2002/1075/A
+  address: 5/211 Dorset Road, Croydon VIC 3136
+  description: Construction of a skillion pergola to the rear of Unit 5
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-05'
+- council_reference: M/2004/563/A
+  address: 1/50 Barkly Street, Ringwood VIC 3134
+  description: Construction of one new single storey dwelling to the front of the
+    existing dwelling
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2018-11-16'
+- council_reference: M/2005/564/B
+  address: 2/71 Wicklow Avenue, Croydon VIC 3136
+  description: Sell and consume liquor in association with an on-premises liquor license
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-02'
+- council_reference: M/2009/40/B
+  address: 26 Great Ryrie Street, Ringwood VIC 3134
+  description: Amend endorsed plans to facilitate partial demolition and rebuild of
+    Dwelling 1 (double storey dwelling with double garage)
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-03-06'
+- council_reference: M/2011/342/C
+  address: Balance Frances Street, Heathmont VIC 3135
+  description: Alterations to the endorsed plans to delete the DDA ramp and path
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2018-10-23'
+- council_reference: M/2011/61/C
+  address: 3 Royal Avenue, Heathmont VIC 3135
+  description: Amend plans to replace the front dwelling with a new double storey
+    dwelling
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-02-15'
+- council_reference: M/2014/1117/A
+  address: 55-57 Lusher Road, Croydon VIC 3136
+  description: Amend the endorsed plans to widen the existing driveway and crossover
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-09'
+- council_reference: M/2014/745/C
+  address: 301 Maroondah Highway, Ringwood VIC 3134
+  description: Alter permit preamble and conditions to enable the creation of an essential
+    services easement
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-04'
+- council_reference: M/2015/158/B
+  address: 15 Landale Avenue, Croydon VIC 3136
+  description: Amend permit and endorsed plans to allow for the construction of 9
+    dwellings (8 three storey dwellings and 1 two storey dwelling)
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2018-12-13'
+- council_reference: M/2015/504/H
+  address: 175 Maroondah Highway, Ringwood VIC 3134
+  description: Amendment to allow tenancy MM15 to be used for the sale and consumption
+    of liquor
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-10'
+- council_reference: M/2015/765/D
+  address: 4 Bridge Court, Croydon South VIC 3136
+  description: Amendment to the endorsed plans and planning permit to allow for the
+    construction of a third dwelling to the east of the existing dwelling.
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-01'
+- council_reference: M/2015/935/B
+  address: 4/136 Warrandyte Road, Ringwood VIC 3134
+  description: Remove Section  173 Agreement for Unit 4
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-06'
+- council_reference: M/2016/1071/B
+  address: 17 Bartlett Avenue, Croydon VIC 3136
+  description: Remove Section 173 Agreement from Titles
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-24'
+- council_reference: M/2016/1133/C
+  address: 13 Linden Road, Ringwood North VIC 3134
+  description: Various alterations to the endorsed plans to enlarge Dwelling A from
+    3 bedrooms to 5 bedrooms and include a sub-basement garage
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-25'
+- council_reference: M/2016/339/B
+  address: 16 Moore Avenue, Croydon VIC 3136
+  description: Construction of a front fence
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-16'
+- council_reference: M/2016/816/B
+  address: 193-223 Canterbury Road, Bayswater North VIC 3153
+  description: Changes to the development and layout on the site to replace some of
+    the restricted retail with warehouses.
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-07'
+- council_reference: M/2016/985/A
+  address: 28-30 Maroondah Highway, Ringwood VIC 3134
+  description: Amendment to endorsed plans
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-02'
+- council_reference: M/2017/1029/A
+  address: 8 Branch Road, Bayswater North VIC 3153
+  description: Carport to be constructed 450mm higher and additional trees removed
+    along northern boundary
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-01'
+- council_reference: M/2017/1069
+  address: 93 Wantirna Road, Ringwood VIC 3134
+  description: Use and development of the land for a childcare centre
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2017-11-30'
+- council_reference: M/2017/323/A
+  address: 56 Lyons Road, Croydon North VIC 3136
+  description: Secondary Consent Amendment to the plans comprising modifications to
+    the layout and design of the dwellings
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-17'
+- council_reference: M/2017/456/C
+  address: 5-15 Kent Avenue, Croydon VIC 3136
+  description: Making alterations to the approved plans and include the uses of a
+    child care centre and gymnasium
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-28'
+- council_reference: M/2018/1021
+  address: 18 Jarma Road, Heathmont VIC 3135
+  description: Construction of five double storey dwellings and tree removal
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2018-09-24'
+- council_reference: M/2018/1094
+  address: 6 Heatherbrae Avenue East, Ringwood VIC 3134
+  description: Development of the land for 6 double storey dwellings and removal of
+    vegetation
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2018-10-10'
+- council_reference: M/2018/1236
+  address: 6 Market Drive, Bayswater North VIC 3153
+  description: Construction of Warehouse and Ancillary Office
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2018-11-14'
+- council_reference: M/2018/1318
+  address: 1 Tororo Court, Croydon North VIC 3136
+  description: Construction of three double-storey dwellings, subdivision of land
+    into 3 lots and associated vegetation removal
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2018-12-11'
+- council_reference: M/2018/1348
+  address: 8 Galloway Grove, Bayswater North VIC 3153
+  description: Construct one single storey dwelling in addition to the existing dwelling,
+    subdivision of the land into 2 lots and associated tree removal
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2018-12-19'
+- council_reference: M/2018/1359
+  address: 21 Baker Road, Bayswater North VIC 3153
+  description: Construction of 3 double-storey dwellings and removal of vegetation
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2018-12-20'
+- council_reference: M/2018/1376
+  address: 2 Lauriston Court, Ringwood VIC 3134
+  description: Construction of two double storey dwellings and associated tree removal
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2018-12-28'
+- council_reference: M/2018/465
+  address: 6 Little John Road, Warranwood VIC 3134
+  description: Construction of two storey building comprising of two shops at ground
+    floor and two apartments at first floor and associated tree removal
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2018-05-02'
+- council_reference: M/2018/543
+  address: 19 Arundel Street, Croydon VIC 3136
+  description: Construction of 3 double storey dwellings and associated vegetation
+    removal
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2018-05-23'
+- council_reference: M/2018/596
+  address: 4 Clearwood Close, Warranwood VIC 3134
+  description: Subdivision of the land into 4 lots, removal of vegetation, removal
+    of native vegetation and associated works
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2018-06-04'
+- council_reference: M/2018/672
+  address: 16 St Georges Crescent, Croydon VIC 3136
+  description: Construction of a double storey dwelling to the east of the exsiting
+    dwelling and associated vegetation removal
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2018-06-29'
+- council_reference: M/2018/793
+  address: 45 Royal Avenue, Heathmont VIC 3135
+  description: Construction of two double storey dwellings and associated vegetation
+    removal
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2018-07-26'
+- council_reference: M/2018/935/A
+  address: 98 Sellick Drive, Croydon VIC 3136
+  description: Amendment to Permit Conditions 1(i) and 2 to allow for a Council waste
+    collection
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-15'
+- council_reference: M/2018/947
+  address: 12A Swain Court, Heathmont VIC 3135
+  description: Construction of dwelling with a height greater than 8.0 metres in a
+    Significant Landscape Overlay 3
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2018-09-05'
+- council_reference: M/2018/948
+  address: 31 Pitt Street, Ringwood VIC 3134
+  description: Construction of a three storey townhouse development comprising of
+    five (5) dwellings
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2018-09-04'
+- council_reference: M/2018/989
+  address: 42 Pascoe Avenue, Croydon VIC 3136
+  description: Construction of a double dwelling to the rear of the existing dwelling,
+    subdivision of the land into 2 lots, and vegetation removal
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2018-09-16'
+- council_reference: M/2019/103
+  address: 40 Sellick Drive, Croydon VIC 3136
+  description: Construct two double storey dwellings in addition to the existing dwelling
+    and associated vegetation removal
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-02-08'
+- council_reference: M/2019/110
+  address: 47 Surrey Road East, Croydon VIC 3136
+  description: Construction of three double storey dwellings and associated vegetation
+    removal
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-02-11'
+- council_reference: M/2019/129
+  address: 28 Kincumber Drive, Croydon VIC 3136
+  description: Construction of a double storey dwelling in addition to the existing
+    dwelling and subdivision of the land into 2 lots
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-02-14'
+- council_reference: M/2019/130
+  address: 14 Wickham Road, Croydon VIC 3136
+  description: Construction of two double storey dwellings and associated vegetation
+    removal
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-02-14'
+- council_reference: M/2019/150
+  address: 8 Yallourn Parade, Ringwood VIC 3134
+  description: Producers Licence associated with use of the land for a micro-brewery
+    including cellar door (industry - Section 1 use) and food and drink premises (Section
+    2 use), buildings and works, advertising signage and a reduction in the car parking
+    requirement.
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-02-19'
+- council_reference: M/2019/158
+  address: 33 Daisy Street, Heathmont VIC 3135
+  description: Construction of two single storey dwellings and associated vegetation
+    removal.
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-02-21'
+- council_reference: M/2019/170
+  address: 10 Fremont Street, Heathmont VIC 3135
+  description: Development of two dwellings, subdivision of the land into 2 lots,
+    associated vegetation removal and removal of easement (E-1)
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-03-01'
+- council_reference: M/2019/175
+  address: 73-75 Patterson Street, Ringwood East VIC 3135
+  description: Integrated Child and Family Health Centre
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-03-04'
+- council_reference: M/2019/180
+  address: 210 Liverpool Road, Kilsyth South VIC 3137
+  description: Construction of two double storey dwellings to the rear of the existing
+    dwelling and associated vegetation removal
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-03-05'
+- council_reference: M/2019/185
+  address: 26 Grey Street, Ringwood East VIC 3135
+  description: Construction of a two storey medical centre above an at-grade car park.  Medical
+    centre will comprise entry and reception at ground floor level, 6 medical suites
+    at first floor and two medical suites and conference room at second floor level.
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-03-06'
+- council_reference: M/2019/195
+  address: 41 Heathmont Road, Ringwood VIC 3134
+  description: Construction of two dwellings on a lot and subdivision of the land
+    into two lots
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-03-08'
+- council_reference: M/2019/213
+  address: 7 Valda Avenue, Ringwood East VIC 3135
+  description: Construction of three double storey dwellings, vegetation removal and
+    subdivision of the land into 3 lots
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-03-13'
+- council_reference: M/2019/219
+  address: 9 Neville Street, Ringwood VIC 3134
+  description: Construction of 2 double storey dwellings and removal of vegetation
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-03-14'
+- council_reference: M/2019/223
+  address: 24 Haig Street, Ringwood VIC 3134
+  description: Buildings and works to construct a second dwelling, extend the existing
+    dwelling, construct a garage for the existing dwelling, to subdivide land into
+    two (2) lots and to remove an easement
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-03-16'
+- council_reference: M/2019/236
+  address: Factory 2/1-3 Eastspur Court, Kilsyth South VIC 3137
+  description: Change of use to a Fitness Centre and associated provision of car parking
+    to the satisfaction of the Responsible Authority
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-03-25'
+- council_reference: M/2019/245
+  address: 91 Murray Road, Croydon VIC 3136
+  description: Construction of two double storey dwellings and removal of vegetation
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-03-26'
+- council_reference: M/2019/252
+  address: 25 Macey Street, Croydon South VIC 3136
+  description: Construction of a double storey dwelling to the rear of the existing
+    dwelling and vegetation removal
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-03-27'
+- council_reference: M/2019/256
+  address: 31-35 Croydon Road, Croydon VIC 3136
+  description: Part use of the land for short term accommodation (community care unit),
+    plus associated internal buildings and works to the existing church hall
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-03-28'
+- council_reference: M/2019/286
+  address: 1 St Johns Avenue, Croydon VIC 3136
+  description: Construction of a single storey dwelling in addition to the existing
+    dwelling, associated vegetation removal and subdivision of the land into 2 lots
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-04-04'
+- council_reference: M/2019/30
+  address: 16 Sussex Street, Ringwood VIC 3134
+  description: Construction of three double storey dwellings
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-01-16'
+- council_reference: M/2019/334
+  address: 11 Aminga Court, Croydon VIC 3136
+  description: Construction of a second dwelling, associated vegetation removal and
+    two lot subdivision
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-04-23'
+- council_reference: M/2019/340
+  address: 16 Orchard Drive, Croydon VIC 3136
+  description: Development of one dwelling in addition to the existing dwelling, associated
+    vegetation removal and subdivision of the land into 2 lots
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-04-29'
+- council_reference: M/2019/343
+  address: 53 Landstrom Quadrant, Kilsyth VIC 3137
+  description: Construction of one dwelling in addition to the existing dwelling,
+    associated vegetation removal and subdivision of the land into 2 lots
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-04-30'
+- council_reference: M/2019/349
+  address: 71 Alexandra Road, Ringwood East VIC 3135
+  description: Extentions and alterations to the existing dwelling including basement
+    and associated tree removal
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-04-30'
+- council_reference: M/2019/373
+  address: 38B Marlborough Road, Heathmont VIC 3135
+  description: Extensions and alterations to the dwelling
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-06'
+- council_reference: M/2019/391
+  address: 16 Hewish Road, Croydon VIC 3136
+  description: Application for a liquor licence for cafe and restaurant
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-13'
+- council_reference: M/2019/421
+  address: 307 Dorset Road, Croydon VIC 3136
+  description: Construction of three dwellings (2 x double storey and 1 x single storey),
+    associated vegetation removal, subdivision of the land into 3 lots and alteration
+    of access to a Road Zone Category 1
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-22'
+- council_reference: M/2019/429
+  address: 86 Hull Road, Croydon VIC 3136
+  description: Use and development for the purpose of a child care centre, removal
+    of vegetation and creation of access to a road in a Road Zone Category 1
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-23'
+- council_reference: M/2019/436
+  address: 391 Maroondah Highway, Ringwood VIC 3134
+  description: Proposed building alterations and signage
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-27'
+- council_reference: M/2019/446
+  address: 15 View Street, Croydon VIC 3136
+  description: Subdivision of the land into 2 lots and removal of vegetation
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-30'
+- council_reference: M/2019/449
+  address: 11 Orchard Drive, Croydon VIC 3136
+  description: Extensions to the existing dwelling including the addition of a second
+    storey and ground floor alteration
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-30'
+- council_reference: M/2019/455
+  address: 1/13 Old Lilydale Road, Ringwood East VIC 3135
+  description: Application for a packaged liquor license (take away only)
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-31'
+- council_reference: M/2019/468
+  address: 31 Ruskin Avenue, Croydon VIC 3136
+  description: Subdivision of the land into 3 lots
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-03'
+- council_reference: M/2019/473
+  address: 48B Warrandyte Road, Ringwood VIC 3134
+  description: Subdivision of the land into 2 lots
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-04'
+- council_reference: M/2019/481
+  address: 11 Humber Road, Croydon North VIC 3136
+  description: Construction of four double storey dwellings and associated vegetation
+    removal
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-06'
+- council_reference: M/2019/493
+  address: 20 Parrs Road, Croydon VIC 3136
+  description: Subdivision of the land into 2 lots
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-11'
+- council_reference: M/2019/502
+  address: 76 Bayswater Road, Croydon VIC 3136
+  description: Subdivision of the land into 3 lots
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-13'
+- council_reference: M/2019/508
+  address: 13 Linden Road, Ringwood North VIC 3134
+  description: Subdivision of the land into 2 lots
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-17'
+- council_reference: M/2019/521
+  address: 8 Hewish Road, Croydon VIC 3136
+  description: Restaurant and cafe licence (liquor) associated with a new restaurant
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-19'
+- council_reference: M/2019/563
+  address: 1 Ringwood Street, Ringwood VIC 3134
+  description: Installation of business identification signage
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-03'
+- council_reference: M/2019/575
+  address: 29 Bridget Court, Warranwood VIC 3134
+  description: Removal of drainage easement E-1 created in PS 429794 R
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-09'
+- council_reference: M/2019/94
+  address: 175 Wonga Road, Ringwood North VIC 3134
+  description: Construction of 12 dwellings and removal of vegetation
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-02-04'
+- council_reference: M/2019/96
+  address: 87 Maroondah Highway, Croydon VIC 3136
+  description: Construction of one double storey dwelling to the rear of the existing
+    dwelling and vegetation removal
+  info_url: https://eservices.maroondah.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-02-06'
