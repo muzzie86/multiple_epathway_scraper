@@ -168,7 +168,10 @@ module EpathwayScraper
     west_torrens: {
       url: "https://epathway.wtcc.sa.gov.au/ePathway/Production",
       state: "SA",
-      list: :last_30_days
+      list: :last_30_days,
+      # Has an incomplete SSL chain: See
+      # https://www.ssllabs.com/ssltest/analyze.html?d=epathway.wtcc.sa.gov.au
+      disable_ssl_certificate_check: true
     },
     wollongong: {
       url: "http://epathway.wollongong.nsw.gov.au/ePathway/Production",

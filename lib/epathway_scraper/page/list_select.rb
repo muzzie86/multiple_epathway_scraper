@@ -27,13 +27,15 @@ module EpathwayScraper
       ].freeze
 
       ALL_TEXT = [
+        # Applications
+        "all applications",
+        "applications register",
         # Development Applications
         "development application tracking",
         "development applications",
         "find a development application",
         "list of development applications",
         "development application - planning act",
-        "all applications",
         # Planning Applications
         "planning applications",
         "planning application enquiry",
