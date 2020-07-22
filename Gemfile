@@ -10,7 +10,7 @@ gem "scraperwiki", git: "https://github.com/openaustralia/scraperwiki-ruby.git",
 
 # For development and running tests
 gem "mini_magick"
-gem "rake", "~> 10.0"
+gem "rake", "~> 12.3"
 gem "rspec", "~> 3.0"
 gem "rubocop"
 gem "timecop"
