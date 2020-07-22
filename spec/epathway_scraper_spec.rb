@@ -47,7 +47,7 @@ RSpec.describe EpathwayScraper do
       expect(results).to eq expected
     end
 
-    EpathwayScraper::AUTHORITIES.keys.each do |authority|
+    EpathwayScraper::AUTHORITIES.each_key do |authority|
       it authority do
         test_scraper(authority)
       end

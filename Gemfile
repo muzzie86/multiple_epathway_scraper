@@ -1,16 +1,19 @@
-source 'https://rubygems.org'
+# frozen_string_literal: true
+
+source "https://rubygems.org"
 
 ruby "~>2.5"
 
-gem 'scraperwiki', git: 'https://github.com/openaustralia/scraperwiki-ruby.git', branch: 'morph_defaults'
 gem "mechanize"
+gem "scraperwiki", git: "https://github.com/openaustralia/scraperwiki-ruby.git",
+                   branch: "morph_defaults"
 
 # For development and running tests
+gem "mini_magick"
 gem "rake", "~> 10.0"
 gem "rspec", "~> 3.0"
-gem "watir"
-gem "mini_magick"
+gem "rubocop"
 gem "timecop"
 gem "vcr"
+gem "watir"
 gem "webmock"
-gem "rubocop"
