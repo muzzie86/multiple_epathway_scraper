@@ -725,12 +725,6 @@
   info_url: https://cogc.cloud.infor.com/ePathway/epthprod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-07-02'
-- council_reference: MCU/2019/242
-  address: 5070 Emerald Island Drive, CARRARA QLD 4211
-  description: ePathway
-  info_url: https://cogc.cloud.infor.com/ePathway/epthprod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-03'
 - council_reference: MIN/2019/326
   address: 2 Scott Young Drive, COOMERA QLD 4209
   description: |-
@@ -2478,18 +2472,6 @@
   info_url: https://cogc.cloud.infor.com/ePathway/epthprod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-07-02'
-- council_reference: OPW/2019/941
-  address: 10 Pinnacle Court, ROBINA QLD 4226
-  description: ePathway
-  info_url: https://cogc.cloud.infor.com/ePathway/epthprod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-03'
-- council_reference: OPW/2019/942
-  address: 59 Grant Avenue, HOPE ISLAND QLD 4212
-  description: ePathway
-  info_url: https://cogc.cloud.infor.com/ePathway/epthprod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-03'
 - council_reference: OPW/2019/943
   address: 182 Freemans Road, LOWER BEECHMONT QLD 4211
   description: Operational Works
@@ -2675,9 +2657,3 @@
   info_url: https://cogc.cloud.infor.com/ePathway/epthprod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-06-28'
-- council_reference: ROL/2019/61
-  address: 97 Alison Road, CARRARA QLD 4211
-  description: ePathway
-  info_url: https://cogc.cloud.infor.com/ePathway/epthprod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-03'
