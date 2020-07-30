@@ -573,12 +573,6 @@
   info_url: https://eservices.darebin.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-03-28'
-- council_reference: D/158/2019
-  address: 24-26 Rathcown Road RESERVOIR VIC 3073
-  description: ePathway
-  info_url: https://eservices.darebin.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-03-28'
 - council_reference: D/159/2019
   address: 28 Collins Street PRESTON VIC 3072
   description: Proposed single storey extension to dwelling in a heritage area and
@@ -1171,12 +1165,6 @@
   info_url: https://eservices.darebin.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-05-09'
-- council_reference: D/231/2019
-  address: 62 Herbert Street NORTHCOTE VIC 3070
-  description: ePathway
-  info_url: https://eservices.darebin.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-05-09'
 - council_reference: D/232/2019
   address: 19 Agnes Street THORNBURY VIC 3071
   description: Proposed additions to existing dwelling as shown on the plans accompanying
@@ -1211,12 +1199,6 @@
   description: Construction of a fence on land affected by a Special Building Overlay
     (SBO) and a Land Subject to Inundation Overlay (LSIO) as shown on the plans accompanying
     the application.
-  info_url: https://eservices.darebin.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-05-13'
-- council_reference: D/237/2019
-  address: 5 Nisbett Street RESERVOIR VIC 3073
-  description: ePathway
   info_url: https://eservices.darebin.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-05-13'
@@ -1481,12 +1463,6 @@
   info_url: https://eservices.darebin.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-01-25'
-- council_reference: D/270/2019
-  address: 92 Flinders Street THORNBURY VIC 3071
-  description: ePathway
-  info_url: https://eservices.darebin.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-05-30'
 - council_reference: D/271/2016/B
   address: Rear of 766 Plenty Road RESERVOIR VIC 3073
   description: Development of three (3) double storey dwellings, as shown on the plans
@@ -1506,18 +1482,6 @@
   info_url: https://eservices.darebin.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-05-30'
-- council_reference: D/273/2019
-  address: 8 Plateau Road RESERVOIR VIC 3073
-  description: ePathway
-  info_url: https://eservices.darebin.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-05-30'
-- council_reference: D/274/2019
-  address: 46 Dunstan Street PRESTON VIC 3072
-  description: ePathway
-  info_url: https://eservices.darebin.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-01'
 - council_reference: D/28/2019
   address: 13 King William Street RESERVOIR VIC 3073
   description: Proposed alterations and additions to an existing dwelling in a Heritage

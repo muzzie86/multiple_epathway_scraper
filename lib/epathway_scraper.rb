@@ -51,7 +51,11 @@ module EpathwayScraper
 
   def self.scrape_authority(authority)
     scrape(EpathwayScraper::AUTHORITIES[authority]) do |record|
-      yield record
+      # Putting in "ePathway" in the description must be some kind
+      # of default for new records. We don't want to include these
+      # because they're staggeringly unhelpful to users. Much better
+      # to wait until a proper description gets added by the authority
+      yield record if record["description"] != "ePathway"
     end
   end
 
