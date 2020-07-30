@@ -108,7 +108,8 @@ module EpathwayScraper
       url: "https://services.greatlakes.nsw.gov.au/ePathway/Production",
       state: "NSW",
       list: :all,
-      max_pages: 10
+      max_pages: 10,
+      disable_ssl_certificate_check: true
     },
     inverell: {
       url: "http://203.49.140.77/ePathway/Production",
