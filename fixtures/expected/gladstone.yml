@@ -1,0 +1,19 @@
+---
+- council_reference: DA/20/2020
+  address: 823 Raglan Station Road, RAGLAN QLD 4697
+  description: Intensive Animal Industry
+  info_url: https://online.gladstone.qld.gov.au/ePathway/eProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-06'
+- council_reference: DA/21/2020
+  address: 22 Knights Place, CALLIOPE QLD 4680
+  description: Secondary Dwelling
+  info_url: https://online.gladstone.qld.gov.au/ePathway/eProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-24'
+- council_reference: DA/22/2020
+  address: 5/83 Sun Valley Road, KIN KORA QLD 4680
+  description: Extension to Place of Worship
+  info_url: https://online.gladstone.qld.gov.au/ePathway/eProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-30'

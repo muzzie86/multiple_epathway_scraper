@@ -189,6 +189,11 @@ module EpathwayScraper
       url: "https://property.lakemac.com.au/ePathway/Production",
       state: "NSW",
       list: :last_30_days
+    },
+    gladstone: {
+      url: "https://online.gladstone.qld.gov.au/ePathway/eProd",
+      state: "QLD",
+      list: :last_30_days
     }
   }.freeze
 end
